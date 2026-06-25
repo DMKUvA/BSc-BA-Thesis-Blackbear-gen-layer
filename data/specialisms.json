@@ -1,0 +1,738 @@
+[
+	{
+		"id" : 1,
+		"field_id" : 1,
+		"name" : "Branding",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 2,
+		"field_id" : 1,
+		"name" : "Campaign Management",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 3,
+		"field_id" : 1,
+		"name" : "Content Marketing",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 4,
+		"field_id" : 1,
+		"name" : "Digital Marketing",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 5,
+		"field_id" : 1,
+		"name" : "Performance / Growth Marketing",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 6,
+		"field_id" : 1,
+		"name" : "Social Media",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 7,
+		"field_id" : 1,
+		"name" : "Market Research",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 8,
+		"field_id" : 2,
+		"name" : "Account Management",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 9,
+		"field_id" : 2,
+		"name" : "New Business",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 10,
+		"field_id" : 2,
+		"name" : "Lead Generation",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 11,
+		"field_id" : 2,
+		"name" : "Partnerships",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 12,
+		"field_id" : 2,
+		"name" : "Tender & Proposal Management",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 13,
+		"field_id" : 2,
+		"name" : "Sales Operations",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 14,
+		"field_id" : 3,
+		"name" : "Customer Success",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 15,
+		"field_id" : 3,
+		"name" : "Service Design",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 16,
+		"field_id" : 3,
+		"name" : "Customer Support",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 17,
+		"field_id" : 3,
+		"name" : "Process Improvement",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 18,
+		"field_id" : 3,
+		"name" : "Feedback & NPS",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 19,
+		"field_id" : 3,
+		"name" : "Journey Mapping",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 20,
+		"field_id" : 4,
+		"name" : "Product Ownership",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 21,
+		"field_id" : 4,
+		"name" : "Project Management",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 22,
+		"field_id" : 4,
+		"name" : "Agile / Scrum",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 23,
+		"field_id" : 4,
+		"name" : "Roadmapping",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 24,
+		"field_id" : 4,
+		"name" : "Implementation Projects",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 25,
+		"field_id" : 4,
+		"name" : "PMO / Governance",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 26,
+		"field_id" : 4,
+		"name" : "Stakeholder Management",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 27,
+		"field_id" : 5,
+		"name" : "Business Strategy",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 28,
+		"field_id" : 5,
+		"name" : "Organizational Design",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 29,
+		"field_id" : 5,
+		"name" : "Change Programmes",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 30,
+		"field_id" : 5,
+		"name" : "Policy Development",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 31,
+		"field_id" : 5,
+		"name" : "Process Optimization",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 32,
+		"field_id" : 5,
+		"name" : "Digital Transformation",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 33,
+		"field_id" : 6,
+		"name" : "Process Management",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 34,
+		"field_id" : 6,
+		"name" : "Maintenance & Planning",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 35,
+		"field_id" : 6,
+		"name" : "Field Operations",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 36,
+		"field_id" : 6,
+		"name" : "Quality & Compliance",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 37,
+		"field_id" : 6,
+		"name" : "Continuous Improvement",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 38,
+		"field_id" : 6,
+		"name" : "Asset Management",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 39,
+		"field_id" : 7,
+		"name" : "Purchasing / Sourcing",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 40,
+		"field_id" : 7,
+		"name" : "Logistics & Transport",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 41,
+		"field_id" : 7,
+		"name" : "Inventory Management",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 42,
+		"field_id" : 7,
+		"name" : "Contract Management",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 43,
+		"field_id" : 7,
+		"name" : "Supplier Relations",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 44,
+		"field_id" : 7,
+		"name" : "Planning & Forecasting",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 45,
+		"field_id" : 8,
+		"name" : "Talent Acquisition",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 46,
+		"field_id" : 8,
+		"name" : "HR Administration",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 47,
+		"field_id" : 8,
+		"name" : "Employer Branding",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 48,
+		"field_id" : 8,
+		"name" : "Workforce Planning",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 49,
+		"field_id" : 8,
+		"name" : "HR Analytics",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 50,
+		"field_id" : 8,
+		"name" : "Compensation & Benefits",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 51,
+		"field_id" : 9,
+		"name" : "Learning & Development",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 52,
+		"field_id" : 9,
+		"name" : "Leadership Training",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 53,
+		"field_id" : 9,
+		"name" : "Change Management",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 54,
+		"field_id" : 9,
+		"name" : "Culture & Engagement",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 55,
+		"field_id" : 9,
+		"name" : "Coaching & Facilitation",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 56,
+		"field_id" : 9,
+		"name" : "Internal Communication",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 57,
+		"field_id" : 10,
+		"name" : "IT Support",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 58,
+		"field_id" : 10,
+		"name" : "System Administration",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 59,
+		"field_id" : 10,
+		"name" : "Cloud & Infrastructure",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 60,
+		"field_id" : 10,
+		"name" : "Cybersecurity",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 61,
+		"field_id" : 10,
+		"name" : "Software Implementation",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 62,
+		"field_id" : 10,
+		"name" : "DevOps / IT Operations",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 63,
+		"field_id" : 11,
+		"name" : "Data Analysis",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 64,
+		"field_id" : 11,
+		"name" : "Data Engineering",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 65,
+		"field_id" : 11,
+		"name" : "Business Intelligence",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 66,
+		"field_id" : 11,
+		"name" : "Machine Learning",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 67,
+		"field_id" : 11,
+		"name" : "Automation",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 68,
+		"field_id" : 11,
+		"name" : "Reporting & Dashboards",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 69,
+		"field_id" : 12,
+		"name" : "Financial Administration",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 70,
+		"field_id" : 12,
+		"name" : "Controlling & Reporting",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 71,
+		"field_id" : 12,
+		"name" : "Risk & Compliance",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 72,
+		"field_id" : 12,
+		"name" : "Legal Affairs",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 73,
+		"field_id" : 12,
+		"name" : "Contract Management",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 74,
+		"field_id" : 12,
+		"name" : "Audit & Assurance",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 75,
+		"field_id" : 13,
+		"name" : "Energy Transition",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 76,
+		"field_id" : 13,
+		"name" : "Circular Economy",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 77,
+		"field_id" : 13,
+		"name" : "Environmental Impact",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 78,
+		"field_id" : 13,
+		"name" : "CSR / Social Responsibility",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 79,
+		"field_id" : 13,
+		"name" : "ESG Reporting",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 80,
+		"field_id" : 13,
+		"name" : "Sustainable Procurement",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 81,
+		"field_id" : 14,
+		"name" : "R&D",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 82,
+		"field_id" : 14,
+		"name" : "Concept Development",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 83,
+		"field_id" : 14,
+		"name" : "Service Innovation",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 84,
+		"field_id" : 14,
+		"name" : "Product Innovation",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 85,
+		"field_id" : 14,
+		"name" : "Pilot Projects",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 86,
+		"field_id" : 14,
+		"name" : "Technology Scouting",
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 87,
+		"field_id" : 15,
+		"name" : "Work Preparation",
+		"created_at" : "2025-11-10 21:13:30",
+		"updated_at" : "2025-11-10 21:13:30",
+		"deleted_at" : null
+	},
+	{
+		"id" : 88,
+		"field_id" : 15,
+		"name" : "Technical Drawing",
+		"created_at" : "2025-11-10 21:13:30",
+		"updated_at" : "2025-11-10 21:13:30",
+		"deleted_at" : null
+	},
+	{
+		"id" : 89,
+		"field_id" : 15,
+		"name" : "Technical Design",
+		"created_at" : "2025-11-10 21:13:30",
+		"updated_at" : "2025-11-10 21:13:30",
+		"deleted_at" : null
+	},
+	{
+		"id" : 90,
+		"field_id" : 15,
+		"name" : "Calculations",
+		"created_at" : "2025-11-10 21:13:30",
+		"updated_at" : "2025-11-10 21:13:30",
+		"deleted_at" : null
+	},
+	{
+		"id" : 91,
+		"field_id" : 15,
+		"name" : "System Integration",
+		"created_at" : "2025-11-10 21:13:30",
+		"updated_at" : "2025-11-10 21:13:30",
+		"deleted_at" : null
+	},
+	{
+		"id" : 92,
+		"field_id" : 15,
+		"name" : "Testing & Commissioning",
+		"created_at" : "2025-11-10 21:13:30",
+		"updated_at" : "2025-11-10 21:13:30",
+		"deleted_at" : null
+	}
+]

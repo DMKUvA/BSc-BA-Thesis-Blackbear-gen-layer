@@ -1,0 +1,1516 @@
+[
+  {
+    "id": "9f116dcd-34c5-49fa-9b8e-d5ce5b825583",
+    "source_title": "Begeleiding en opstellen Tendertraject",
+    "quality": "good",
+    "specialism": "Tender & Proposal Management",
+    "budget_band": 2,
+    "mode": "creator_v2",
+    "context_summary": "Het doel van deze opdracht is om het volledige tendertraject rondom het vinden van een nieuwe exploitant voor het gemeentezwembad professioneel te laten begeleiden en uitwerken, van de opzet van de uitvraag tot en met de begeleiding van het selectietraject.",
+    "response_json": {
+      "displayMessage": "Ik heb een concept-SoW voorbereid voor **Begeleiding en opstellen Tendertraject**.",
+      "SoW": {
+        "title": "Begeleiding en opstellen Tendertraject",
+        "purpose": "Het doel van deze opdracht is om het volledige tendertraject rondom het vinden van een nieuwe exploitant voor het gemeentezwembad professioneel te laten begeleiden en uitwerken, van de opzet van de uitvraag tot en met de begeleiding van het selectietraject.",
+        "definitionOfDone": "De opdracht is succesvol afgerond wanneer er een heldere en complete tenderuitvraag ligt en het selectieproces met betrokken stakeholders goed is begeleid, resulterend in een gemotiveerde keuze voor een geschikte nieuwe exploitant.",
+        "boundaries": {
+          "includedActivities": [
+            "Opstellen van de aanbestedingsdocumenten en uitvraag voor de nieuwe exploitant",
+            "Afstemmen van randvoorwaarden en wensen met de gemeente en relevante stakeholders",
+            "Ondersteuning bij het beantwoorden van vragen tijdens de uitvraagperiode",
+            "Organiseren en begeleiden van het selectieproces, inclusief beoordelingssessies",
+            "Verslaglegging en advisering rondom de besluitvorming"
+          ],
+          "outOfScope": [
+            "Inhoudelijk adviseren over exploitatievormen buiten het aanbestedingsproces",
+            "Juridische toetsing op detailniveau (uitgezonderd standaard aanbestedingspraktijken)",
+            "Nazorg na het selecteren van de exploitant buiten de projectperiode"
+          ]
+        },
+        "mustHaveRequirements": [
+          "Bewezen ervaring met het schrijven van aanbestedingen binnen de (semi-)publieke sector.",
+          "Goede communicatieve vaardigheden voor het begeleiden van interne en externe overlegmomenten.",
+          "Beschikbaarheid voor circa 8 uur per week gedurende de gehele looptijd van twee maanden.",
+          "Vastlegging van alle stappen en adviezen in een toegankelijk eindrapport."
+        ],
+        "niceToHaveRequirements": [
+          "Ervaring met tendertrajecten in de sectoren sport, welzijn of recreatie.",
+          "Aantoonbare affiniteit met werken voor kleine overheden of eilandgemeenten.",
+          "Kennis van duurzame exploitatiemanagementpraktijken."
+        ],
+        "timeline": "2025-06-062025-07-31",
+        "budget": {
+          "costestimate": null,
+          "hourlyrate": 9500,
+          "averageweeklyhours": 8
+        },
+        "resources": [
+          "Toegang tot beleidsstukken en contracthistorie van het zwembad",
+          "Contact met gemeentelijke projectleider en betrokken ambtenaren",
+          "Standaardaanbestedingsformulieren en -modellen van de gemeente"
+        ],
+        "location": {
+          "workingtype": "hybrid",
+          "worklocation": "Gemeentehuis (indien nodig), grotendeels remote"
+        },
+        "language": "nl",
+        "type": "timebased",
+        "isFinalized": false,
+        "percentage": 75
+      }
+    }
+  },
+  {
+    "id": "9f314664-0181-4560-9734-ab504e722386",
+    "source_title": "Wegwerken Achterstanden RO-Advies",
+    "quality": "good",
+    "specialism": "Process Management",
+    "budget_band": 2,
+    "mode": "creator_v2",
+    "context_summary": "Het doel van deze opdracht is om bij te dragen aan het wegwerken van de ontstane achterstanden in RO-adviesaanvragen, zodat de doorlooptijd van adviezen wordt verkort en de werkdruk binnen het huidige team wordt verlaagd.",
+    "response_json": {
+      "displayMessage": "Je concept-SoW voor **Wegwerken Achterstanden RO-Advies** staat klaar en is volledig ingevuld.",
+      "SoW": {
+        "title": "Wegwerken Achterstanden RO-Advies",
+        "purpose": "Het doel van deze opdracht is om bij te dragen aan het wegwerken van de ontstane achterstanden in RO-adviesaanvragen, zodat de doorlooptijd van adviezen wordt verkort en de werkdruk binnen het huidige team wordt verlaagd.",
+        "definitionOfDone": "De opdracht is afgerond wanneer: 1) een vooraf afgesproken aantal RO-adviesvragen volledig inhoudelijk is behandeld, afgestemd en opgeleverd, 2) de oplossingen voldoen aan de lokale beleidsafspraken en -praktijken zoals in overleg met het kernteam, en 3) er afstemming en overdracht heeft plaatsgevonden met de interne medewerkers voor borging van kennis en werkwijze. Let op, in samenwerking met jou als professional stellen we milestones op. Iedere milestone bevat X aantal adviesvragen. Je krijgt dan per milestone en dus na afronding van de adviesvragen, uitbetaald.",
+        "boundaries": {
+          "includedActivities": [
+            "Inhoudelijk behandelen van een overeengekomen aantal RO-adviesaanvragen op basis van binnengekomen vergunningaanvragen.",
+            "Actieve afstemming en tussentijds overleg met de huidige RO-adviseurs en relevante betrokkenen.",
+            "Zorgdragen voor correcte en tijdige verslaglegging van de adviezen in lijn met het actuele gemeentelijke beleid en praktijkvoorbeelden.",
+            "Waar nodig, advies en ondersteuning bieden aan minder ervaren teamleden bij specifieke casussen.",
+            "Deelnemen aan het wekelijkse overlegmoment op donderdagochtend indien mogelijk, zowel fysiek als online."
+          ],
+          "outOfScope": [
+            "Het structureel begeleiden of opleiden van medewerkers buiten de afgesproken adviesopdrachten.",
+            "Het zelfstandig implementeren of wijzigen van gemeentelijk beleid.",
+            "Het opstellen van nieuwe beleidsdocumenten.",
+            "Het behandelen van onderwerpen buiten het RO-adviesveld.",
+            "Het verrichten van administratieve taken buiten hetgeen direct nodig is voor het adviesproces."
+          ]
+        },
+        "mustHaveRequirements": [
+          "Minimaal vijf jaar aantoonbare en relevante werkervaring als RO-adviseur.",
+          "Direct inzetbaar, zelfstandig en snel kunnen schakelen binnen een dynamisch team.",
+          "Affiniteit met landelijke en agrarische vraagstukken, gezien het karakter van de gemeente.",
+          "Beschikbaar om hybride te werken, met deelname aan het vaste donderdagochtendoverleg, deels op locatie.",
+          "Goede communicatieve vaardigheden en aantoonbare ervaring met afstemming in gemeentelijke processen.",
+          "Bereidheid om adviesstukken per casus af te stemmen met het kernteam in lijn met lokale werkwijzen."
+        ],
+        "niceToHaveRequirements": [
+          "Werkervaring in vergelijkbare landelijke gemeenten.",
+          "Bekendheid met de specifieke RO-problematiek rondom bedrijfs- en woonbestemmingen in landelijke gebieden.",
+          "Woonachtig binnen redelijke reisafstand tot Goeree-Overflakkee voor flexibele inzet op kantoor.",
+          "Beschikking over een netwerk van relevante specialisten voor collegiaal overleg waar nodig.",
+          "Ervaring met het tijdelijk opvangen van werkpieken binnen gemeentelijke adviespools."
+        ],
+        "timeline": "2025-08-042025-10-31",
+        "budget": {
+          "costestimate": 1000000,
+          "hourlyrate": null,
+          "averageweeklyhours": null
+        },
+        "resources": [
+          "Toegang tot alle benodigde gemeentelijke beleidstukken en praktijkvoorbeelden.",
+          "Contactgegevens en introductie tot het kernteam RO-adviseurs.",
+          "Ondersteuning bij het beschikbaar stellen van benodigde vergaderfaciliteiten (indien fysiek overleg).",
+          "Toegang tot digitale systemen voor dossierinzicht en rapportage.",
+          "Ondersteuning bij introductie in lopende werkprocessen."
+        ],
+        "location": {
+          "workingtype": "hybrid",
+          "worklocation": "Gemeentehuis, Goeree-Overflakkee"
+        },
+        "language": "nl",
+        "type": "materialbased",
+        "isFinalized": true,
+        "percentage": 100
+      }
+    }
+  },
+  {
+    "id": "9f314875-5201-4012-a9fa-c7dabbdb24b5",
+    "source_title": "Projectleider gegevensdeling tussen welzijns- en medisch domein",
+    "quality": "good",
+    "specialism": "Project Management",
+    "budget_band": 2,
+    "mode": "creator_v2",
+    "context_summary": "Het doel van deze opdracht is het ontwikkelen van duidelijke, toegankelijke handreikingen en een (digitale) e-learning module over gegevensdeling tussen het welzijnsdomein en het medisch domein. Dit moet zorgprofessionals ondersteunen bij het verantwoord delen van informatie, binnen de kaders van het medisch beroepsgeheim en relevante wet- en regel",
+    "response_json": {
+      "displayMessage": "Je concept-SoW voor **Projectleider gegevensdeling tussen welzijns- en medisch domein** staat klaar en is volledig ingevuld.",
+      "SoW": {
+        "title": "Projectleider gegevensdeling tussen welzijns- en medisch domein",
+        "purpose": "Het doel van deze opdracht is het ontwikkelen van duidelijke, toegankelijke handreikingen en een (digitale) e-learning module over gegevensdeling tussen het welzijnsdomein en het medisch domein. Dit moet zorgprofessionals ondersteunen bij het verantwoord delen van informatie, binnen de kaders van het medisch beroepsgeheim en relevante wet- en regelgeving. De output moet geschikt zijn voor professionals in verschillende gemeenten en toepasbaar zijn in diverse samenwerkingsverbanden rondom integrale zorg.",
+        "definitionOfDone": "De opdracht is voltooid als er een afgeronde set praktische handreikingen en/of protocollen, aangevuld met een e-learning module en voorlichtingsmateriaal, beschikbaar is voor alle relevante zorg- en welzijnsprofessionals in de 12 Drentse gemeenten. De materialen zijn afgestemd met alle noodzakelijke stakeholders (zoals juristen, informatiebeveiliging en gemeentelijke vertegenwoordigers), en zijn direct inzetbaar op diverse e-learning platforms van betrokken organisaties.",
+        "boundaries": {
+          "includedActivities": [
+            "Inventariseren van bestaande samenwerkingsafspraken per gemeente",
+            "Overleggen met juridische zaken, informatiebeveiliging en aangewezen gemeenteambtenaren in werkgroepverband",
+            "Ontwikkelen van toegankelijke handreikingen/protocollen voor gegevensdeling",
+            "Laten ontwikkelen van, of zelf (helpen) ontwikkelen van, een e-learning module",
+            "Afstemmen van de materialen zodat deze geschikt zijn voor verschillende e-learning platforms",
+            "Rapporteren aan en afstemmen met subsidiegever"
+          ],
+          "outOfScope": [
+            "Het individueel trainen van alle zorgverleners",
+            "Het voeren van nieuwe onderhandelingsrondes met gemeenten over bestaande convenanten",
+            "Implementatie van technische koppelingen of systemen voor gegevensuitwisseling",
+            "Langdurige nazorg, updates of onderhoud van e-learning na oplevering"
+          ]
+        },
+        "mustHaveRequirements": [
+          "Aantoonbare ervaring met projecten op het snijvlak van medisch beroepsgeheim en gegevensdeling in het sociaal- en/of ggz-domein",
+          "Ervaring met projectleiding waarbij meerdere stakeholders en belangen spelen",
+          "Het opleveren van begrijpelijk, toepasbaar voorlichtingsmateriaal en handreikingen",
+          "Het kunnen laten ontwikkelen of zelf ontwikkelen van een digitale e-learning module verspreidbaar over meerdere platforms",
+          "Affiniteit met (en kennis van) zowel het zorg- als welzijnsdomein, bij voorkeur bekend met gemeentelijke processen",
+          "Bereidheid tot samenwerken met bestaande interne teams en externe specialisten"
+        ],
+        "niceToHaveRequirements": [
+          "Ervaring met projecten verspreid over meerdere gemeenten",
+          "Bekend met de Nederlandse GGZ en/of netwerken daarbinnen",
+          "Handigheid met het ophalen en verwerken van informatie met behulp van AI-tools",
+          "Achtergrond in communicatie of het schrijven van heldere, praktische handleidingen",
+          "Eerdere opdracht(en) op het thema stigma en privacy rond psychiatrie"
+        ],
+        "timeline": "2025-07-142025-12-19",
+        "budget": {
+          "costestimate": null,
+          "hourlyrate": 10000,
+          "averageweeklyhours": 10
+        },
+        "resources": [
+          "Bestaande convenanten en afspraken per gemeente",
+          "Toegang tot juridische experts en informatiebeveiliging",
+          "Contactpersonen van gemeentelijke welzijnsorganisaties",
+          "Bestaande e-learning platformen van de betrokken organisaties",
+          "Inhoudelijke input van zorgprofessionals en relevante cases"
+        ],
+        "location": {
+          "workingtype": "hybrid",
+          "worklocation": "Drenthe en omliggende regio's, met mogelijkheid tot deels remote werken in overleg"
+        },
+        "language": "nl",
+        "type": "timebased",
+        "isFinalized": true,
+        "percentage": 100
+      }
+    }
+  },
+  {
+    "id": "9f4b9c2e-d7be-45e8-bfdf-7e68aa7c473e",
+    "source_title": "Projectmanagement reorganisatie",
+    "quality": "good",
+    "specialism": "Project Management",
+    "budget_band": 2,
+    "mode": "creator_v2",
+    "context_summary": "Het doel van dit project is het volledig en discreet managen van het gefaseerde proces rondom de bedrijfsbeëindiging van een Walraven locatie. De focus ligt op het coördineren van alle benodigde acties richting besluitvorming, het uitwerken en uitvoeren van het uiteindelijke plan, en het borgen van correcte communicatie, planning en betrokkenheid v",
+    "response_json": {
+      "displayMessage": "Je concept-SoW voor **Projectmanagement reorganisatie** staat klaar en is volledig ingevuld.",
+      "SoW": {
+        "title": "Projectmanagement reorganisatie",
+        "purpose": "Het doel van dit project is het volledig en discreet managen van het gefaseerde proces rondom de bedrijfsbeëindiging van een Walraven locatie. De focus ligt op het coördineren van alle benodigde acties richting besluitvorming, het uitwerken en uitvoeren van het uiteindelijke plan, en het borgen van correcte communicatie, planning en betrokkenheid van relevante interne en externe stakeholders.",
+        "definitionOfDone": "Het project is afgerond zodra: er een volledig uitgewerkt scenario (verkoop/ontmanteling/overdracht) is opgesteld en geïmplementeerd, alle afgesproken interne en externe communicatie aan stakeholders (inclusief personeel en potentiële kopers) professioneel is gefaciliteerd, acties tijdig, volledig en discreet worden opgevolgd, de overgang van bedrijfsactiviteiten is gerealiseerd of is gewaarborgd conform het gekozen scenario én Walraven organisatie het kan overnemen met volledige overdracht van taken en restpunten.",
+        "boundaries": {
+          "includedActivities": [
+            "Opstellen en actualiseren van een integraal projectplan met scenario’s voor verkoop, gedeeltelijke verkoop of volledige bedrijfsontmanteling.",
+            "Coördineren van alle betrokken partijen intern en extern, inclusief het plannen van benodigde meetings en het bewaken van de voortgang.",
+            "Uitwerken van zowel juridische, operationele als personele consequenties per scenario en stakeholders wijzen op te nemen stappen.",
+            "Vanuit ervaring initiatieven nemen, ideeen aandragen en ook het team challengen op alle vlakken die voortgang of kwaliteit van het project ten goede komen.",
+            "Organiseren van en het bijwonen/voorzitten van gesprekken met potentiële kopers en stakeholders.",
+            "Bewaken van tijdlijnen, budgetten, actielijsten en rapportages aan de directie.",
+            "Voorbereiden van communicatie- en informatiematerialen voor management, OR, personeel en stakeholders, inclusief voorbereidende informatiedeks voor besluitvormingsmomenten.",
+            "Signaleren van risico’s en, samen met directie/ondersteunend team, mitigatieplannen initiëren.",
+            "Ondersteunen bij aansturing van lokale team voor zover nodig voor projectvoortgang."
+          ],
+          "outOfScope": [
+            "Het uitvoeren van de formele waardebepaling/taxatie van vastgoed of onderneming (dit wordt extern belegd).",
+            "Directe HR-gesprekken met personeel of overname van individuele personeelsdossiers (deze worden lokaal opgepakt).",
+            "Contractonderhandelingen of juridische due diligence namens Walraven (advies, geen uitvoering).",
+            "Langdurige coaching of nazorg na het beëindigen van het traject."
+          ]
+        },
+        "mustHaveRequirements": [
+          "Aantoonbare ervaring met projectleiding in bedrijfsbeëindiging, overname of reorganisatie binnen MKB of maakindustrie.",
+          "Sterk organisatorisch vermogen en het vermogen om complexe, gefaseerde processen nauwgezet te managen.",
+          "Zakelijke sensitiviteit en ervaring met communicatie op directieniveau en met externe partijen/kopers.",
+          "Senior profiel met hands-on mentaliteit (geen puur consultant, maar iemand die ook daadwerkelijk de uitvoering borgt).",
+          "Goede digitale vaardigheden en vertrouwd met (project)planningstools, rapportagestructuren en Excel.",
+          "Beschikbaar voor gemiddeld 16-24 uur per week, met piekmomenten tot circa 40 uur afhankelijk van het procesverloop.",
+          "Beschikbaarheid voor hybride werken.",
+          "Beheersing van de Nederlandse taal (mondeling en schriftelijk) op professioneel niveau."
+        ],
+        "niceToHaveRequirements": [
+          "Ervaring als ex-ondernemer of met post-fusie integratie/sluiting van productielocaties.",
+          "Affiniteit met techniek/maakindustrie en het kunnen inschatten van technische proposities.",
+          "Recente ervaring met discreet uitvoeren van complexe projecten binnen familiebedrijven of organisaties met hoge mate van betrokkenheid."
+        ],
+        "timeline": "2025-07-282025-12-15",
+        "budget": {
+          "costestimate": null,
+          "hourlyrate": 12000,
+          "averageweeklyhours": 20
+        },
+        "resources": [
+          "Toegang tot relevante interne documenten, verkoop- en productiedata van de locatie.",
+          "Beschikbaarheid van interne key-stakeholders voor periodiek overleg.",
+          "Ondersteuning vanuit HR, financieel, technisch en juridisch domein.",
+          "Gebruik van Walraven communicatiesystemen en projecttools."
+        ],
+        "location": {
+          "workingtype": "hybrid",
+          "worklocation": "Nederland"
+        },
+        "language": "nl",
+        "type": "timebased",
+        "isFinalized": true,
+        "percentage": 100
+      }
+    }
+  },
+  {
+    "id": "9f65b011-0e71-4599-be26-d894d79101df",
+    "source_title": "Verzuimcoach en Casemanager.",
+    "quality": "good",
+    "specialism": "Policy Development",
+    "budget_band": 2,
+    "mode": "creator_v2",
+    "context_summary": "Begeleiden van werknemers bij re-integratie en adviseren van de organisatie in verzuimbeleid, met als doel langdurig verzuim te beperken en duurzame inzetbaarheid te bevorderen.",
+    "response_json": {
+      "displayMessage": "Je concept-SoW voor **Verzuimcoach en Casemanager.** staat klaar en is volledig ingevuld.",
+      "SoW": {
+        "title": "Verzuimcoach en Casemanager.",
+        "purpose": "Begeleiden van werknemers bij re-integratie en adviseren van de organisatie in verzuimbeleid, met als doel langdurig verzuim te beperken en duurzame inzetbaarheid te bevorderen.",
+        "definitionOfDone": "De opdracht is succesvol afgerond wanneer langdurige verzuimgevallen aantoonbaar zijn afgenomen, er een gestructureerd casemanagementproces is geïmplementeerd en leidinggevenden actief worden ondersteund in hun rol. Concreet betekent dit: - Re-integratieplannen zijn opgesteld en opgevolgd. - Leidinggevenden zijn getraind of ondersteund. - Verzuimpercentages zijn inzichtelijk en worden gemonitord. - Dossiers zijn up-to-date en AVG-proof. - Wettelijke termijnen (Wet verbetering poortwachter) worden nageleefd.",
+        "boundaries": {
+          "includedActivities": [
+            "Casemanagement per individueel verzuimdossier.",
+            "Opstellen van plan van aanpak en bijhouden van voortgang.",
+            "Adviseren over interventies, Arbo en wetgeving.",
+            "Contact met bedrijfsartsen en externe partijen.",
+            "Rapporteren aan HR en management over trends en risico’s.",
+            "Ondersteunen van leidinggevenden bij verzuimgesprekken."
+          ],
+          "outOfScope": [
+            "Medische beoordeling of diagnose.",
+            "HR-beleid op organisatieniveau opstellen.",
+            "Uitvoering van therapieën of medische interventies.",
+            "Functioneren als bedrijfsarts of juridisch adviseur."
+          ]
+        },
+        "mustHaveRequirements": [
+          "Ervaring met verzuimbegeleiding en casemanagement.",
+          "Kennis van Wet verbetering poortwachter.",
+          "Sterke communicatieve vaardigheden.",
+          "Affiniteit met HR en inzetbaarheidsvraagstukken.",
+          "Beschikbaar 32 uur/week voor 6 maanden.",
+          "Zelfstandig en gestructureerd kunnen werken."
+        ],
+        "niceToHaveRequirements": [
+          "Ervaring met verzuimsoftware (bv. Verzuimsignaal, Visma).",
+          "Bekend met industrie- of bouwsector.",
+          "Coaching- of mediation-ervaring.",
+          "Ervaring met preventief inzetbaarheidsbeleid."
+        ],
+        "timeline": "2025-07-012026-03-31",
+        "budget": {
+          "costestimate": null,
+          "hourlyrate": 9500,
+          "averageweeklyhours": 35
+        },
+        "resources": [
+          "Toegang tot verzuimdossiers en HR-systemen.",
+          "Afstemming met HR en teamleiders.",
+          "Ondersteuning vanuit interne HR-afdeling.",
+          "Mandaat om gesprekken te voeren en plannen op te stellen.",
+          "Hybride werkvorm (deels op locatie, deels remote)."
+        ],
+        "location": {
+          "workingtype": "hybrid",
+          "worklocation": "Amsterdam"
+        },
+        "language": "nl",
+        "type": "timebased",
+        "isFinalized": true,
+        "percentage": 100
+      }
+    }
+  },
+  {
+    "id": "9f6bb838-a91c-4868-b951-6b5988760d37",
+    "source_title": "Marketing ondersteuning",
+    "quality": "good",
+    "specialism": "Content Marketing",
+    "budget_band": 1,
+    "mode": "creator_v2",
+    "context_summary": "Ondersteunen van het marketingteam van Peterson Pest Control met consistente, doelgroepgerichte contentcreatie om merkzichtbaarheid te vergroten en klantbetrokkenheid te stimuleren. Focus ligt op praktische en toegankelijke communicatie via social media, blogs en digitale nieuwsbrieven.",
+    "response_json": {
+      "displayMessage": "Je concept-SoW voor **Marketing ondersteuning** staat klaar en is volledig ingevuld.",
+      "SoW": {
+        "title": "Marketing ondersteuning",
+        "purpose": "Ondersteunen van het marketingteam van Peterson Pest Control met consistente, doelgroepgerichte contentcreatie om merkzichtbaarheid te vergroten en klantbetrokkenheid te stimuleren. Focus ligt op praktische en toegankelijke communicatie via social media, blogs en digitale nieuwsbrieven.",
+        "definitionOfDone": "De opdracht is succesvol wanneer: - Minimaal 2 posts per week live staan op LinkedIn, Instagram of Facebook - Er is een contentplanning voor 2 maanden vooruit - Minstens 2 klantgerichte blogs of casussen per maand opgeleverd - Content sluit aan bij merk, doelgroep (B2B en B2C) en seizoensacties - Stakeholders geven positieve feedback over toon en output",
+        "boundaries": {
+          "includedActivities": [
+            "Uitwerken en inplannen van social media posts",
+            "Schrijven van blogs, klantverhalen en FAQ’s",
+            "Ontwikkelen van visuals in Canva of Adobe-tools",
+            "Meedenken over campagnethema’s en acties",
+            "Bewaken van tone-of-voice en merkconsistentie",
+            "Samenwerken met marketing, sales en service"
+          ],
+          "outOfScope": [
+            "Webdevelopment of SEO-techniek",
+            "Paid advertising campagnes of mediamanagement",
+            "Interne communicatie of employer branding",
+            "Strategieontwikkeling of positionering",
+            "Video-editing op hoog niveau"
+          ]
+        },
+        "mustHaveRequirements": [
+          "Ervaring met contentcreatie voor MKB/B2B-sector",
+          "Schrijfvaardigheid in NL (en basis EN)",
+          "Proactieve houding en zelfstandig kunnen werken",
+          "Affiniteit met praktische dienstverlening (zoals ongediertebestrijding)",
+          "Beschikbaar 16-24 uur/week, voor minimaal 3 maanden"
+        ],
+        "niceToHaveRequirements": [
+          "Ervaring met pest control-, facility- of reinigingsdiensten",
+          "Basiskennis van SEO, Mailchimp of Meta Business Suite",
+          "Creatieve blik op contentvormen (bv. polls, before/after visuals)",
+          "Interesse in duurzaamheid of seizoensgedrag van plagen"
+        ],
+        "timeline": "2025-07-012025-12-01",
+        "budget": {
+          "costestimate": null,
+          "hourlyrate": 5000,
+          "averageweeklyhours": 8
+        },
+        "resources": [
+          "Toegang tot bestaande social media en CMS-tools",
+          "Samenwerking met marketingcoördinator en klantservice",
+          "Relevante huisstijlrichtlijnen en beeldbanken",
+          "Input vanuit sales en klantfeedback",
+          "Remote of hybride werken mogelijk vanaf kantoor (regio NL)"
+        ],
+        "location": {
+          "workingtype": "hybrid",
+          "worklocation": "Rotterdam"
+        },
+        "language": "nl",
+        "type": "timebased",
+        "isFinalized": true,
+        "percentage": 100
+      }
+    }
+  },
+  {
+    "id": "9f7132f1-f260-43cc-b41a-430e1045ed00",
+    "source_title": "Relatiemanagement & records management project",
+    "quality": "good",
+    "specialism": "Process Management",
+    "budget_band": 2,
+    "mode": "creator_v2",
+    "context_summary": "Het doel van dit project is het ondersteunen van Achmea Investment Management op het gebied van relatiemanagement en recordsmanagement, inclusief het verbeteren van datakwaliteit, testen en doorontwikkelen van tooling, opstellen van beleidsconforme conventies en werkprocessen, en het optimaliseren van archiveringsprocessen en informatiemanagement.",
+    "response_json": {
+      "displayMessage": "Ik heb een concept-SoW voorbereid voor **Relatiemanagement & records management project**.",
+      "SoW": {
+        "title": "Relatiemanagement & records management project",
+        "purpose": "Het doel van dit project is het ondersteunen van Achmea Investment Management op het gebied van relatiemanagement en recordsmanagement, inclusief het verbeteren van datakwaliteit, testen en doorontwikkelen van tooling, opstellen van beleidsconforme conventies en werkprocessen, en het optimaliseren van archiveringsprocessen en informatiemanagement.",
+        "definitionOfDone": "Het project is afgerond wanneer de datakwaliteit van de relaties is opgeschoond, conventies en HLPB's in lijn met het beleid opgesteld zijn, relevante werkprocessen en werkinstructies geactualiseerd en gedocumenteerd zijn, awareness is vergroot, het classificatieschema is geactualiseerd en in gebruik genomen, de verantwoordingsketen inzichtelijk is gemaakt, het migratieplan gereed is voor implementatie, en de business is ondersteund bij het opschonen van relevante data.",
+        "boundaries": {
+          "includedActivities": [
+            "Ondersteuning bij het opschonen en borgen van datakwaliteit van relaties (brondata)",
+            "Testen van en adviseren over nieuwe tooling in lijn met specificaties",
+            "Opstellen van conventies en HLPB’s congruent met beleid en de L3 waardeketen",
+            "Bijdragen aan het maken van werkinstructies en het vergroten van awareness",
+            "Actualiseren van het classificatieschema door het mappen van processen",
+            "Inzichtelijk en toegankelijk maken van archiefwaardige informatie",
+            "In beeld brengen van de verantwoordingsketen",
+            "Vastleggen van doelsystemen en ondersteunen bij het opstellen van een migratieplan",
+            "Ondersteuning van de business bij het opschonen van archieven en data"
+          ],
+          "outOfScope": [
+            "Langdurig beheer na implementatie van nieuwe processen",
+            "Technische uitvoering van grootschalige systeemmigraties",
+            "Het verzorgen van uitgebreide opleidingen buiten de awareness-sessies",
+            "Aanschaf of implementatie van nieuwe software buiten testadvies"
+          ]
+        },
+        "mustHaveRequirements": [
+          "Ervaring met relatiemanagement en recordsmanagementprocessen in een financiële of vergelijkbare omgeving",
+          "Kennis van classificatieschema’s, informatie-architectuur en datakwaliteit",
+          "Vaardigheid in het opstellen van beleid, conventies en (werk)instructies",
+          "Ervaring met het testen en valideren van tooling in doorontwikkelingstrajecten"
+        ],
+        "niceToHaveRequirements": [
+          "Ervaring binnen de vermogensbeheer- of verzekeringssector",
+          "Ervaring met migratieprojecten van archiefsystemen"
+        ],
+        "timeline": "2025-08-012026-01-31",
+        "budget": {
+          "costestimate": null,
+          "hourlyrate": 7500,
+          "averageweeklyhours": 30
+        },
+        "resources": [
+          "Toegang tot relevante databronnen en archieven",
+          "Samenwerking met datamanagement-, IT- en compliance-teams",
+          "Toegang tot beleidsdocumenten en structuurkaarten",
+          "Ondersteuning van key-users voor testtrajecten"
+        ],
+        "location": {
+          "workingtype": "hybrid",
+          "worklocation": "Zeist"
+        },
+        "language": "nl",
+        "type": "timebased",
+        "isFinalized": false,
+        "percentage": 75
+      }
+    }
+  },
+  {
+    "id": "9fc60208-0f06-4777-b18b-c64319a4fb98",
+    "source_title": "ESG Policy Foundation for AmbaFlex",
+    "quality": "good",
+    "specialism": "Policy Development",
+    "budget_band": 1,
+    "mode": "creator_v2",
+    "context_summary": "The purpose of this project is to develop a suite of essential ESG policy documents for AmbaFlex, specifically focusing on robust policy frameworks for S2 Workers in the Value Chain and E5 Circularity. This initiative is designed to address gaps identified in the recent Double Materiality Assessment (DMA) and EcoVadis scorecard. The project will de",
+    "response_json": {
+      "displayMessage": "Your draft SoW for **ESG Policy Foundation for AmbaFlex** is ready and fully filled in.",
+      "SoW": {
+        "title": "ESG Policy Foundation for AmbaFlex",
+        "purpose": "The purpose of this project is to develop a suite of essential ESG policy documents for AmbaFlex, specifically focusing on robust policy frameworks for S2 Workers in the Value Chain and E5 Circularity. This initiative is designed to address gaps identified in the recent Double Materiality Assessment (DMA) and EcoVadis scorecard. The project will deliver a VSME/CSRD-ready and CSDDD-compliant policy foundation, which will serve as a credible base for future performance measurement, certifications, and stakeholder communication.",
+        "definitionOfDone": "The project will be considered complete when AmbaFlex has received: (1) a Corporate ESG Policy, (2) a Circularity (E5) Policy, (3) a Workers in the Value Chain (S2) Policy, (4) an Anti-Corruption & Whistleblowing Policy extension, and (5) a framework for a Supplier Code of Conduct tailored to future rollout. All policies will align with ESRS/VSME and CSDDD standards, and will be delivered in English in a format ready for internal approval and subsequent stakeholder engagement.",
+        "boundaries": {
+          "includedActivities": [
+            "Analysis of existing DMA and EcoVadis documentation",
+            "Development of S2 Workers in the Value Chain Policy",
+            "Development of E5 Circularity Policy",
+            "Drafting of Corporate ESG overarching policy",
+            "Drafting of Anti-Corruption & Whistleblowing extension",
+            "Creation of a Supplier Code of Conduct policy framework (without rollout or training)",
+            "Mapping policy content to ESRS/VSME and CSDDD requirements"
+          ],
+          "outOfScope": [
+            "KPI measurement design or data collection systems",
+            "Reporting and disclosures under CSRD",
+            "Management system/certification implementation",
+            "Supplier training or Code of Conduct rollout",
+            "External assurance or endorsement process"
+          ]
+        },
+        "mustHaveRequirements": [
+          "Proven experience drafting ESG policies aligned with ESRS/VSME and CSDDD requirements",
+          "Deep knowledge of circularity issues relevant to the manufacturing sector",
+          "Strong understanding of human rights and labor standards in international supply chains",
+          "Ability to translate technical standards and regulatory language into accessible policy documents suitable for internal and external stakeholders",
+          "Experience in mapping corporate risks and stakeholder expectations to policy content"
+        ],
+        "niceToHaveRequirements": [
+          "Previous work with companies in the intralogistics or manufacturing equipment sectors",
+          "Familiarity with EcoVadis and Double Materiality Assessment methodologies",
+          "Experience engaging with supply chain partners for policy validation or pilot implementation",
+          "Knowledge of SBTi and UNGC endorsement processes",
+          "Proficiency in Dutch (for optional translation or local adaptation)"
+        ],
+        "timeline": "2025-09-082025-10-31",
+        "budget": {
+          "costestimate": 30000,
+          "hourlyrate": null,
+          "averageweeklyhours": null
+        },
+        "resources": [
+          "Access to DMA and EcoVadis reports",
+          "Internal policy templates and current versions (if available)",
+          "Contact details for key internal stakeholders (HR, Sustainability Lead, Procurement, Compliance)",
+          "Relevant supplier contact points (for policy drafting context)",
+          "Overview of current corporate governance structure"
+        ],
+        "location": {
+          "workingtype": "hybrid",
+          "worklocation": "AmbaFlex HQ, Zwaag, The Netherlands"
+        },
+        "language": "en",
+        "type": "materialbased",
+        "isFinalized": true,
+        "percentage": 100
+      }
+    }
+  },
+  {
+    "id": "9ff3e467-9a8a-4273-8312-3dc4123f2534",
+    "source_title": "The QHSE Certification Project",
+    "quality": "good",
+    "specialism": "Quality & Compliance",
+    "budget_band": 1,
+    "mode": "creator_v2",
+    "context_summary": "The primary objective of this project is to successfully manage and support the Avetta QHSE certification process across nine countries, ensuring uniform compliance with safety and quality standards and promoting operational excellence throughout the organization.",
+    "response_json": {
+      "displayMessage": "Your draft SoW for **The QHSE Certification Project** is ready and fully filled in.",
+      "SoW": {
+        "title": "The QHSE Certification Project",
+        "purpose": "The primary objective of this project is to successfully manage and support the Avetta QHSE certification process across nine countries, ensuring uniform compliance with safety and quality standards and promoting operational excellence throughout the organization.",
+        "definitionOfDone": "This project will be considered complete when Avetta certification is achieved in all nine target countries, current practice gaps have been addressed, all required documentation is submitted according to Avetta standards, stakeholders are aligned and fully informed, a practical framework or checklist for future certifications is created, and reporting clearly demonstrates compliance and operational readiness across all locations.",
+        "boundaries": {
+          "includedActivities": [
+            "Coordinating the Avetta certification process within each country",
+            "Conducting gap analyses against certification standards",
+            "Preparing and submitting all necessary documentation",
+            "Liaising with regional and local stakeholders to ensure alignment",
+            "Aligning and standardizing QHSE protocols across countries",
+            "Providing regular status updates and risk assessments to leadership"
+          ],
+          "outOfScope": [
+            "Implementation of on-site safety improvements",
+            "Direct legal or regulatory representation",
+            "Development of internal QHSE software",
+            "Management of certifications outside the Avetta scope",
+            "Day-to-day operational control over local health and safety teams"
+          ]
+        },
+        "mustHaveRequirements": [
+          "In-depth knowledge and previous experience with Avetta certification processes",
+          "Proven track record in multinational QHSE project management",
+          "Strong attention to detail and proficiency in documentation",
+          "Excellent cross-cultural communication skills",
+          "Ability to work both independently and collaboratively across time zones",
+          "A flexible, proactive, and self-starting approach to project tasks"
+        ],
+        "niceToHaveRequirements": [
+          "Familiarity with additional certification schemes such as ISO 45001 or ISO 9001",
+          "Legal knowledge of European health and safety compliance requirements",
+          "Previous experience in logistics or industrial operations",
+          "Multilingual skills-English required, other languages are an advantage"
+        ],
+        "timeline": "2025-09-262025-12-31",
+        "budget": {
+          "costestimate": null,
+          "hourlyrate": 6500,
+          "averageweeklyhours": 8
+        },
+        "resources": [
+          "Access to internal QHSE documentation and tracking systems",
+          "Direct contact points in each of the nine participating countries",
+          "Existing templates for reporting and certification tracking",
+          "Collaboration tools such as Microsoft Teams and SharePoint"
+        ],
+        "location": {
+          "workingtype": "hybrid",
+          "worklocation": "Travel as required to participating countries"
+        },
+        "language": "en",
+        "type": "timebased",
+        "isFinalized": true,
+        "percentage": 100
+      }
+    }
+  },
+  {
+    "id": "a01bf804-4d12-49f2-97a1-962608ac30bf",
+    "source_title": "Animatiefilm Project - Amstelring",
+    "quality": "bad",
+    "specialism": "Content Marketing",
+    "budget_band": 1,
+    "mode": "creator_v2",
+    "context_summary": "Het maken van een ondersteunende animatiefilm voor een verkennend onderzoek naar de rol in de zorgzame buurt.",
+    "response_json": {
+      "displayMessage": "Je concept-SoW voor **Animatiefilm Project - Amstelring** staat klaar en is volledig ingevuld.",
+      "SoW": {
+        "title": "Animatiefilm Project - Amstelring",
+        "purpose": "Het maken van een ondersteunende animatiefilm voor een verkennend onderzoek naar de rol in de zorgzame buurt.",
+        "definitionOfDone": "Animatiefilm van maximaal 2 minuten, 10 quotes, diversiteit in avatars, Amstelringkleuren toegepast, gereed vóór 21 oktober.",
+        "boundaries": {
+          "includedActivities": [
+            "Scriptontwikkeling en storyboard creatie",
+            "Animatie en visueel ontwerp",
+            "Geluidsontwerp",
+            "Finalisatie en kwaliteitscontrole"
+          ],
+          "outOfScope": [
+            "Muziekselectie"
+          ]
+        },
+        "mustHaveRequirements": [
+          "Ervaring met geavanceerde animatietechnieken",
+          "Vaardigheid in relevante animatiesoftware zoals Adobe After Effects of Blender",
+          "Snel schakelen en werken onder strakke deadlines"
+        ],
+        "niceToHaveRequirements": [],
+        "timeline": "2025-10-212025-11-20",
+        "budget": {
+          "costestimate": 50000,
+          "hourlyrate": null,
+          "averageweeklyhours": null
+        },
+        "resources": [
+          "Access to key stakeholders, relevant documentation, and required systems"
+        ],
+        "location": {
+          "workingtype": "remote",
+          "worklocation": null
+        },
+        "language": "nl",
+        "type": "materialbased",
+        "isFinalized": true,
+        "percentage": 100
+      }
+    }
+  },
+  {
+    "id": "a0288dbf-b287-4db0-a8c4-03c7e9eb96d6",
+    "source_title": "Lead Auditor Kwaliteit & Veiligheid",
+    "quality": "good",
+    "specialism": "Quality & Compliance",
+    "budget_band": 2,
+    "mode": "creator_v2",
+    "context_summary": "Het doel van deze opdracht is het leveren van deskundige, onafhankelijke auditdiensten voor kwaliteits- en veiligheidsmanagementsystemen binnen Peterson. De lead auditor zal verantwoordelijk zijn voor het plannen, uitvoeren en rapporteren van interne en externe audits volgens de geldende ISO- en VCA-normen, en het adviseren van het management over ",
+    "response_json": {
+      "displayMessage": "Ik heb een concept-SoW voorbereid voor **Lead Auditor Kwaliteit & Veiligheid**.",
+      "SoW": {
+        "title": "Lead Auditor Kwaliteit & Veiligheid",
+        "purpose": "Het doel van deze opdracht is het leveren van deskundige, onafhankelijke auditdiensten voor kwaliteits- en veiligheidsmanagementsystemen binnen Peterson. De lead auditor zal verantwoordelijk zijn voor het plannen, uitvoeren en rapporteren van interne en externe audits volgens de geldende ISO- en VCA-normen, en het adviseren van het management over verbetermaatregelen.",
+        "definitionOfDone": "De opdracht wordt als voltooid beschouwd wanneer er een geaccepteerde auditplanning is opgesteld en uitgevoerd, alle geplande audits zijn afgerond en gerapporteerd volgens de Peterson- en normeisen, en heldere verbeteradviezen zijn gedeeld en besproken met het management. Daarnaast is kennisoverdracht geborgd door actieve begeleiding van (junior) interne auditors.",
+        "boundaries": {
+          "includedActivities": [
+            "Het uitvoeren van interne audits op basis van ISO 9001, VCA en gerelateerde managementsystemen",
+            "Voorbereiden, coördineren en begeleiden van externe audits",
+            "Rapporteren van auditresultaten aan het management",
+            "Adviseren over en opvolgen van verbetermaatregelen",
+            "Ondersteunen bij het actualiseren en optimaliseren van managementsystemen",
+            "Begeleiden van interne auditors en kennisdeling binnen het auditteam"
+          ],
+          "outOfScope": [
+            "Operationele implementatie van verbetermaatregelen",
+            "Uitvoeren van specialistische technische inspecties buiten het kader van audits",
+            "Coaching van management op individueel niveau anders dan auditgerelateerd"
+          ]
+        },
+        "mustHaveRequirements": [
+          "Beschikbaarheid gedurende minimaal 8 uur per week, bij voorkeur vast dagdeel",
+          "Aantoonbare ervaring als lead auditor voor ISO 9001 en VCA",
+          "Up-to-date certificering als lead auditor (o.a. herkwalificaties ISO9001:2015, VCA)",
+          "Uitgebreide kennis van arbeidsveiligheid, risicomanagement en managementsystemen",
+          "Goede communicatieve en rapportagevaardigheden in het Nederlands"
+        ],
+        "niceToHaveRequirements": [
+          "Ervaring met Arbo-adviestrajecten in industriële omgevingen",
+          "Kennis van CO2-prestatieladder, OHSAS 18001/ISO 45001, en NEN Veiligheidsladder",
+          "Ervaring met coaching en begeleiding van interne auditor teams",
+          "Regionale bekendheid of woonachtig in Zuid-Nederland"
+        ],
+        "timeline": "2026-01-022027-01-02",
+        "budget": {
+          "costestimate": null,
+          "hourlyrate": 9500,
+          "averageweeklyhours": 12
+        },
+        "resources": [
+          "Toegang tot relevante managementsystemen en documentatie",
+          "Inwerkprogramma specifiek op Peterson-processen",
+          "Ondersteuning van het interne kwaliteitsteam",
+          "Auditchecklisten en rapportageformats"
+        ],
+        "location": {
+          "workingtype": "hybrid",
+          "worklocation": "Regio midden- en zuid Nederland"
+        },
+        "language": "nl",
+        "type": "timebased",
+        "isFinalized": false,
+        "percentage": 75
+      }
+    }
+  },
+  {
+    "id": "a0387e64-b52a-4aa2-95ff-cb25a1d12be7",
+    "source_title": "DUERP for Employees in France",
+    "quality": "bad",
+    "specialism": "Quality & Compliance",
+    "budget_band": 1,
+    "mode": "creator_v2",
+    "context_summary": "To develop a legally compliant, audit-ready DUERP covering all operational sites and activities.",
+    "response_json": {
+      "displayMessage": "Your draft SoW for **DUERP for Employees in France** is ready and fully filled in.",
+      "SoW": {
+        "title": "DUERP for Employees in France",
+        "purpose": "To develop a legally compliant, audit-ready DUERP covering all operational sites and activities.",
+        "definitionOfDone": "Risk identification with stakeholders; Hazard analysis across all departments; Risk evaluation using probability × severity matrix; Drafting of DUERP in Excel/Word format; Development of a prevention and action plan with SMART indicators; Training/knowledge transfer session for internal teams.",
+        "boundaries": {
+          "includedActivities": [
+            "Project Kick-off: Align objectives, scope, and methodology; Collect existing documentation",
+            "Risk Identification & Analysis: Conduct workshops and site observations; Categorize hazards (physical, chemical, psychosocial, organizational)",
+            "Risk Evaluation: Apply probability × severity matrix; Prioritize risks with stakeholders",
+            "DUERP Drafting: Create Excel/Word DUERP with inventory, evaluation, and controls",
+            "Prevention & Action Plan: Define corrective/preventive measures; Assign responsibilities, deadlines, and SMART indicators",
+            "Training & Handover: Deliver training/knowledge transfer; Provide final DUERP and supporting materials"
+          ],
+          "outOfScope": [
+            "Implementation of corrective actions",
+            "Medical/ergonomic assessments",
+            "Ongoing monitoring"
+          ]
+        },
+        "mustHaveRequirements": [
+          "Regulatory expertise in French Code du Travail and EU directives",
+          "Risk assessment methodology using probability × severity matrices",
+          "Process mapping and visualization (SIPOC, Turtle diagrams, flowcharts)",
+          "Audit-readiness experience aligned with ISO 9001/45001 standards",
+          "Facilitation and communication skills for stakeholder workshops",
+          "Training capability to transfer knowledge effectively to internal teams",
+          "Excel/Word templates for risk evaluation and DUERP drafting",
+          "Process mapping software (Visio, Lucidchart, or equivalent)",
+          "Regulatory reference sources (INRS, CARSAT, Ministry of Labour)",
+          "Collaboration platforms for document sharing and version control",
+          "Survey/feedback tools to capture employee input on workplace risks",
+          "Access to sites and workstations for observations and hazard identification",
+          "Historical data (accident reports, audits, near-miss logs)",
+          "Stakeholder availability (managers, HSE staff, employee representatives)",
+          "Management support to validate deliverables and enforce follow-up",
+          "Budget allocation for consultancy, training, and supporting tools",
+          "Fluent in English and capable of checking machine translations"
+        ],
+        "niceToHaveRequirements": [],
+        "timeline": "2025-11-042025-12-04",
+        "budget": {
+          "costestimate": 600000,
+          "hourlyrate": null,
+          "averageweeklyhours": null
+        },
+        "resources": [
+          "Access to key stakeholders, relevant documentation, and required systems"
+        ],
+        "location": {
+          "workingtype": "hybrid",
+          "worklocation": "Ploemeur, Marseille, France"
+        },
+        "language": "en",
+        "type": "materialbased",
+        "isFinalized": true,
+        "percentage": 100
+      }
+    }
+  },
+  {
+    "id": "a03e998a-8cd2-4ce4-9cac-d4d4c8bf69c3",
+    "source_title": "Ontwikkeling Lab Operationele Module (LPA) voor LIMS",
+    "quality": "good",
+    "specialism": "Reporting & Dashboards",
+    "budget_band": 2,
+    "mode": "creator_v2",
+    "context_summary": "Het doel van dit project is het ontwikkelen en opleveren van de Lab Operationele Module (LPA) binnen het Laboratorium Informatie Management Systeem (LIMS) voor TLR. De module moet alle essentiële laboratoriumprocessen ondersteunen, aansluiten op de bestaande modulaire LIMS-architectuur, en bijdragen aan een snellere, betrouwbare operationele workfl",
+    "response_json": {
+      "displayMessage": "Ik heb een concept-SoW voorbereid voor **Ontwikkeling Lab Operationele Module (LPA) voor LIMS**.",
+      "SoW": {
+        "title": "Ontwikkeling Lab Operationele Module (LPA) voor LIMS",
+        "purpose": "Het doel van dit project is het ontwikkelen en opleveren van de Lab Operationele Module (LPA) binnen het Laboratorium Informatie Management Systeem (LIMS) voor TLR. De module moet alle essentiële laboratoriumprocessen ondersteunen, aansluiten op de bestaande modulaire LIMS-architectuur, en bijdragen aan een snellere, betrouwbare operationele workflow. De module zal ontwikkeld worden in .Net",
+        "definitionOfDone": "Het project is geslaagd wanneer er een volledig geïmplementeerde, geteste en functionerende LPA-module is opgeleverd die voldoet aan de functionele en technische wensen van TLR, is geïntegreerd in het bestaande LIMS, en door laboratoriummedewerkers effectief in gebruik is genomen. De afronding wordt bevestigd door het behalen van overeengekomen milestones en de acceptatie door de opdrachtgever.",
+        "boundaries": {
+          "includedActivities": [
+            "Ontwikkelen en implementeren van de LPA-module in .NET 8 volgens afgesproken functionaliteit.",
+            "Inregelen en integreren van de module met de bestaande LIMS-database en andere modules.",
+            "Regelmatig afstemmen met interne en externe stakeholders van TLR.",
+            "Begeleiding en advisering gedurende het ontwikkeltraject, inclusief deelname aan project-overleggen en het ophalen van functionele requirements bij de business.",
+            "Testen van de module en begeleiden van gebruikersacceptatietesten.",
+            "Documenteren van ontwikkelde functionaliteiten en overdracht aan het interne team."
+          ],
+          "outOfScope": [
+            "Het ontwikkelen van andere LIMS modules"
+          ]
+        },
+        "mustHaveRequirements": [
+          "Minimaal 4 jaar aantoonbare ervaring met .NET (bij voorkeur versie 8).",
+          "Aantoonbare ervaring met modulair ontwikkelen en integreren van software systemen.",
+          "Bekendheid met werken in een DevOps-omgeving.",
+          "Voldoende projectmatig kunnen werken, inclusief tijdige oplevering van milestones.",
+          "Goede communicatievaardigheden om functionele wensen op te halen in het Nederlands of Engels.",
+          "Resultaatgericht: bij oplevering meetbare waarde toevoegen aan de laboratoriumprocessen."
+        ],
+        "niceToHaveRequirements": [
+          "Eerdere ervaring met het ontwikkelen van LIMS-systemen of laboratoriumsoftware.",
+          "Beheersing van zowel Nederlands als Engels, met name in technische en operationele context.",
+          "Ervaring met stakeholder management in een laboratoriumomgeving.",
+          "Kennis van actuele kwaliteitssystemen en validatieprocessen in laboratoria."
+        ],
+        "timeline": "2025-12-152026-04-20",
+        "budget": {
+          "costestimate": 4700000,
+          "hourlyrate": null,
+          "averageweeklyhours": null
+        },
+        "resources": [
+          "Toegang tot de bestaande LIMS-architectuur en documentatie.",
+          "Interne projectbegeleiding bij TLR.",
+          "Beschikbaarheid van business stakeholders en eindgebruikers voor input en testen.",
+          "Toegang tot een DevOps-omgeving.",
+          "Workstations en benodigde ontwikkeltools."
+        ],
+        "location": {
+          "workingtype": "hybrid",
+          "worklocation": "Ridderkerk"
+        },
+        "language": "nl",
+        "type": "materialbased",
+        "isFinalized": false,
+        "percentage": 75
+      }
+    }
+  },
+  {
+    "id": "a03ed355-b8c7-4360-b9fc-e2b09d2ccddc",
+    "source_title": "Heroriëntatie en Toekomstvisie Dienstverlening Meeliften",
+    "quality": "good",
+    "specialism": "Business Strategy",
+    "budget_band": 1,
+    "mode": "creator_v2",
+    "context_summary": "Het doel van deze opdracht is om strategisch te onderzoeken hoe Brabant Water haar dienstverlening op het gebied van meeliften (het incasseren van gemeentelijke en waterschapsheffingen via de Brabant Water-factuur) toekomstbestendig kan positioneren. Hierbij worden zowel de wensen en behoeften van de huidige klanten als marktkansen en mogelijke nie",
+    "response_json": {
+      "displayMessage": "Je concept-SoW voor **Heroriëntatie en Toekomstvisie Dienstverlening Meeliften** staat klaar en is volledig ingevuld.",
+      "SoW": {
+        "title": "Heroriëntatie en Toekomstvisie Dienstverlening Meeliften",
+        "purpose": "Het doel van deze opdracht is om strategisch te onderzoeken hoe Brabant Water haar dienstverlening op het gebied van meeliften (het incasseren van gemeentelijke en waterschapsheffingen via de Brabant Water-factuur) toekomstbestendig kan positioneren. Hierbij worden zowel de wensen en behoeften van de huidige klanten als marktkansen en mogelijke nieuwe doelgroepen in kaart gebracht, met oog voor het bestaande klantinformatiesysteem MECOMS, marktontwikkelingen, en haalbare verdienmodellen.",
+        "definitionOfDone": "De opdracht is afgerond als een integraal adviesrapport is opgeleverd dat inzicht geeft in: de ervaringen en behoeften van huidige en potentiële gebruikers; eventuele knelpunten in de huidige dienstverlening; (nieuwe) kansen voor het gebruik van MECOMS; relevante markt- en beleidsontwikkelingen; en haalbare verdienmodellen inclusief een business case. Het rapport bevat een concreet voorstel voor de toekomstige positionering en aanpak van de dienstverlening, inclusief prioriteiten en actiepunten.",
+        "boundaries": {
+          "includedActivities": [
+            "Uitvoeren van interviews met huidige en (optionele) potentiële gebruikers van de meeliftdienstverlening",
+            "Analyse van functionaliteit en uitbreidingsmogelijkheden van het klantinformatiesysteem MECOMS",
+            "Marktanalyse en inventarisatie van relevante beleidsontwikkelingen binnen de sector",
+            "Verkennen van nieuwe verdienmodellen en opstellen van een business case",
+            "Opstellen van een adviesrapport met concrete aanbevelingen voor de toekomst van de dienstverlening"
+          ],
+          "outOfScope": [
+            "Implementatie van gekozen opties of verdienmodellen",
+            "Diepgaande technische herontwikkeling van MECOMS",
+            "Hoogfrequente of internationale marktverkenning buiten het bestaande netwerk van Brabant Water",
+            "Structurele samenwerkingstrajecten met externe organisaties (anders dan verkennend contact tijdens interviews of onderzoek)",
+            "Langdurige begeleiding bij organisatieverandering"
+          ]
+        },
+        "mustHaveRequirements": [
+          "Ervaring met interviews en marktonderzoek binnen B2B overheids- of utilitiesector",
+          "Aantoonbare kennis van klantinformatiesystemen (bij voorkeur binnen de utilities zoals Microsoft Dynamics/MECOMS)",
+          "Vaardigheid in het ontwikkelen van een heldere business case",
+          "Vermogen om organisatie- en beleidsanalyses te maken en te vertalen naar strategische adviezen",
+          "Sterke communicatievaardigheden (mondeling en schriftelijk, Nederlands)"
+        ],
+        "niceToHaveRequirements": [
+          "Kennis van gemeentelijke of waterschapsprocessen en beleidskaders",
+          "Ervaring met verandertrajecten in dienstverlenende overheidsorganisaties",
+          "Eerdere exposure aan het analyseren of uitbreiden van Microsoft Dynamics-gebaseerde systemen",
+          "Creatief vermogen om innovatieve, relevante verdienmodellen te ontwikkelen",
+          "Netwerk binnen de decentrale overheid en utilitiessector"
+        ],
+        "timeline": "2025-11-032025-12-31",
+        "budget": {
+          "costestimate": 500000,
+          "hourlyrate": null,
+          "averageweeklyhours": null
+        },
+        "resources": [
+          "Toegang tot relevante documentatie en procesbeschrijvingen van de huidige dienstverlening",
+          "Inzicht in het gebruik en beheer van MECOMS binnen Brabant Water",
+          "Contactgegevens van betrokken interne medewerkers en bestaande gemeentelijke en waterschapklanten",
+          "Mogelijkheid tot afstemming met interne ontwikkelaarsscrumteam",
+          "Beschikbaarheid voor afstemming met directieteam BW"
+        ],
+        "location": {
+          "workingtype": "hybrid",
+          "worklocation": "Brabant Water, Den Bosch en digitale overlegmomenten"
+        },
+        "language": "nl",
+        "type": "materialbased",
+        "isFinalized": true,
+        "percentage": 100
+      }
+    }
+  },
+  {
+    "id": "a0451b2c-03ad-427b-a4ea-a6db607cfd70",
+    "source_title": "Vergelijking van Onderzoeksresultaten",
+    "quality": "bad",
+    "specialism": "Reporting & Dashboards",
+    "budget_band": 1,
+    "mode": "creator_v2",
+    "context_summary": "Het doel van dit project is om de verschillen te onderzoeken tussen drie afzonderlijke onderzoeksgroepen: klanten, partners en collega's. De inzichten dragen bij aan een beter begrip van percepties en ervaringen binnen en rond de organisatie.",
+    "response_json": {
+      "displayMessage": "Je concept-SoW voor **Vergelijking van Onderzoeksresultaten** staat klaar en is volledig ingevuld.",
+      "SoW": {
+        "title": "Vergelijking van Onderzoeksresultaten",
+        "purpose": "Het doel van dit project is om de verschillen te onderzoeken tussen drie afzonderlijke onderzoeksgroepen: klanten, partners en collega's. De inzichten dragen bij aan een beter begrip van percepties en ervaringen binnen en rond de organisatie.",
+        "definitionOfDone": "Het project is voltooid wanneer de analyse van de onderzoeksresultaten volledig is uitgevoerd en de bevindingen helder gepresenteerd zijn in een overzichtelijke en begrijpelijke presentatie, die gedeeld wordt met de belanghebbenden.",
+        "boundaries": {
+          "includedActivities": [
+            "Het analyseren van bestaande onderzoeksresultaten van klanten, partners en collega's.",
+            "Het opstellen van een samenvattende presentatie waarin de onderlinge verschillen en overeenkomsten inzichtelijk worden gemaakt."
+          ],
+          "outOfScope": [
+            "Het verzamelen van nieuwe onderzoeksgegevens.",
+            "Het afnemen van aanvullende interviews of enquêtes."
+          ]
+        },
+        "mustHaveRequirements": [
+          "Sterke analysevaardigheden voor het interpreteren van onderzoeksdata",
+          "Ervaring met het maken van presentaties in PowerPoint of Google Presentaties"
+        ],
+        "niceToHaveRequirements": [
+          "Uitvoering door Eva Boumeester"
+        ],
+        "timeline": "2025-11-052025-12-07",
+        "budget": {
+          "costestimate": 50000,
+          "hourlyrate": null,
+          "averageweeklyhours": null
+        },
+        "resources": [
+          "Toegang tot Google Presentaties",
+          "Bestaande onderzoeksrapporten van klanten, partners en collega's"
+        ],
+        "location": {
+          "workingtype": "remote",
+          "worklocation": null
+        },
+        "language": "nl",
+        "type": "materialbased",
+        "isFinalized": true,
+        "percentage": 100
+      }
+    }
+  },
+  {
+    "id": "a0451d0e-e6a7-4f0b-ab7d-ba5421d1b4bf",
+    "source_title": "DUERP Development and Implementation for Employees in France",
+    "quality": "good",
+    "specialism": "Quality & Compliance",
+    "budget_band": 2,
+    "mode": "creator_v2",
+    "context_summary": "The purpose of this project is to develop a legally compliant and fully audit-ready DUERP (Document Unique d'Évaluation des Risques Professionnels) for all operational sites and activities in France, ensuring full alignment with national legislation and best practices.",
+    "response_json": {
+      "displayMessage": "I've prepared a draft SoW for **DUERP Development and Implementation for Employees in France**.",
+      "SoW": {
+        "title": "DUERP Development and Implementation for Employees in France",
+        "purpose": "The purpose of this project is to develop a legally compliant and fully audit-ready DUERP (Document Unique d'Évaluation des Risques Professionnels) for all operational sites and activities in France, ensuring full alignment with national legislation and best practices.",
+        "definitionOfDone": "The project will be considered complete when a comprehensive DUERP, covering all identified risks and hazards across each department and operational site, is drafted using Excel/Word templates; a prevention and action plan with assigned responsibilities, deadlines, and SMART indicators is developed; and a training and knowledge transfer session with internal teams is executed, along with delivery of finalized documentation and supporting materials to the client.",
+        "boundaries": {
+          "includedActivities": [
+            "Project kick-off and methodology alignment, including collection of existing documentation.",
+            "Conducting stakeholder workshops and on-site observations for risk identification across all departments.",
+            "Hazard categorization (physical, chemical, psychosocial, organizational).",
+            "Risk evaluation using a probability × severity matrix and prioritization of risks.",
+            "Drafting the DUERP in Excel/Word, including a detailed inventory of risks, evaluations, and existing control measures.",
+            "Development of a prevention and action plan with specific corrective and preventive actions, roles, deadlines, and SMART performance indicators.",
+            "Training and knowledge transfer sessions for internal teams, including delivery of all final DUERP documentation and supporting materials."
+          ],
+          "outOfScope": [
+            "Implementation of corrective or preventive actions defined in the DUERP.",
+            "Medical or ergonomic assessments of employees or workstations.",
+            "Ongoing post-project risk monitoring or periodic DUERP updates."
+          ]
+        },
+        "mustHaveRequirements": [
+          "Fluency in French, including business and technical terminology, and ability to check and revise machine translations.",
+          "Proven regulatory expertise in the French Code du Travail as well as relevant EU directives relating to workplace risk prevention.",
+          "Demonstrated experience in risk assessment using probability × severity methodologies.",
+          "Experience with process mapping, visualization tools (SIPOC, Turtle diagrams, flowcharts), and risk evaluation in Excel/Word.",
+          "Prior completion of audit-ready deliverables aligned to ISO 9001 and ISO 45001 standards.",
+          "Ability to facilitate in-person and virtual stakeholder workshops and interviews for risk identification.",
+          "Capacity and willingness to be physically present at operational sites in France for observations and stakeholder engagement.",
+          "Experience using process mapping software (e.g., Visio, Lucidchart) and online collaboration platforms for version control.",
+          "Proficiency in using survey/feedback tools for gathering employee input.",
+          "Accustomed to working with regulatory references (e.g., INRS, CARSAT, French Ministry of Labour) and historical incident/accident data.",
+          "Reliable communication, project management, and reporting skills.",
+          "Evidence of management support and stakeholder availability.",
+          "Ability to deliver effective training to internal teams."
+        ],
+        "niceToHaveRequirements": [
+          "Experience with cross-border DUERP implementation or multi-site environments.",
+          "Advanced data analysis or visualization skills for reporting risk trends.",
+          "Previous collaboration with French labor inspectors (Inspection du Travail) or social partners.",
+          "Background in organizational change management or safety culture transformation.",
+          "Knowledge of digital DUERP solutions or risk management platforms."
+        ],
+        "timeline": "2025-11-052025-12-04",
+        "budget": {
+          "costestimate": null,
+          "hourlyrate": 10000,
+          "averageweeklyhours": 16
+        },
+        "resources": [
+          "Access to all operational sites and workstations for on-site observation.",
+          "Historical accident, incident, audit, and near-miss reports relevant to the project scope.",
+          "Organizational charts and contact lists for relevant stakeholders.",
+          "Access to existing risk evaluation documentation or prior DUERP (if any).",
+          "Collaboration platforms for secure document sharing and version control.",
+          "Survey and feedback tools to capture input from employees.",
+          "Meeting facilities (on-site or virtual) for workshops and interviews."
+        ],
+        "location": {
+          "workingtype": "hybrid",
+          "worklocation": "Client operational sites across France (precise locations to be defined at project initiation)"
+        },
+        "language": "en",
+        "type": "timebased",
+        "isFinalized": false,
+        "percentage": 75
+      }
+    }
+  },
+  {
+    "id": "a056f8af-35a2-43bc-8d5f-547f8c8fdae7",
+    "source_title": "Data Management Consultant for D365 Mission Possible Program",
+    "quality": "good",
+    "specialism": "Reporting & Dashboards",
+    "budget_band": 2,
+    "mode": "creator_v2",
+    "context_summary": "The purpose of this Statement of Work is to define the scope, objectives, responsibilities, and deliverables for a Data Management Consultant engaged to support the migration from Microsoft AX2012 to Dynamics 365 Finance & Operations as part of NRF’s strategic D365 Mission Possible Program. The consultant will be responsible for ensuring the qualit",
+    "response_json": {
+      "displayMessage": "Your draft SoW for **Data Management Consultant for D365 Mission Possible Program** is ready and fully filled in.",
+      "SoW": {
+        "title": "Data Management Consultant for D365 Mission Possible Program",
+        "purpose": "The purpose of this Statement of Work is to define the scope, objectives, responsibilities, and deliverables for a Data Management Consultant engaged to support the migration from Microsoft AX2012 to Dynamics 365 Finance & Operations as part of NRF’s strategic D365 Mission Possible Program. The consultant will be responsible for ensuring the quality, accuracy, and readiness of key business data throughout the pre-migration and migration testing phases.",
+        "definitionOfDone": "The assignment will be considered complete when AX2012 datasets targeted for migration have been fully profiled, data quality issues documented, necessary cleansing performed, and all datasets validated as fit-for-purpose, resulting in successful test migration loads that meet established data quality benchmarks with all business-critical defects resolved or mitigated.",
+        "boundaries": {
+          "includedActivities": [
+            "Extracting and profiling large datasets from AX2012",
+            "Identifying and documenting data defects and quality issues",
+            "Cleansing data directly or overseeing data corrections in AX2012 or staging environments",
+            "Engaging with business data owners to validate corrections and standardize data formats",
+            "Facilitating working sessions to expedite data gap resolution",
+            "Tracking and reporting progress of data cleansing activities",
+            "Validating readiness of finalized datasets for migration to D365"
+          ],
+          "outOfScope": [
+            "Development or customization of AX2012 or D365 modules",
+            "Post-go-live support or ongoing data maintenance after the initial migration stage",
+            "Direct responsibility for infrastructure or non-data elements of the digital transformation program",
+            "Implementation of data archival or data retention policies beyond the migration scope"
+          ]
+        },
+        "mustHaveRequirements": [
+          "Proven track record with hands-on data profiling, cleansing, and validation assignments",
+          "Direct experience with AX2012 and Dynamics 365 migration projects",
+          "Advanced skills in SQL, Excel, Power Query, or equivalent data profiling and cleansing tools",
+          "In-depth knowledge of ERP master data domains, including customer, vendor, product, BOM, and finance",
+          "Ability to operate both independently and collaboratively with IT and business stakeholders",
+          "Strong focus on execution, problem-solving, and chasing data issues to closure",
+          "Comfort working with high-volume, complex, and business-critical data"
+        ],
+        "niceToHaveRequirements": [
+          "Experience with data migration projects in global organizations",
+          "Knowledge of data quality best practices and industry standards",
+          "Familiarity with Microsoft Power Platform or related automation tools",
+          "Ability to lead workshops or training sessions around data readiness"
+        ],
+        "timeline": "2025-11-242026-03-20",
+        "budget": {
+          "costestimate": null,
+          "hourlyrate": 10000,
+          "averageweeklyhours": 32
+        },
+        "resources": [
+          "Full access to AX2012 datasets and relevant staging environments",
+          "Documentation on current data structures, business rules, and data quality criteria",
+          "Contacts for business data owners and process leads",
+          "Tools/licenses for SQL, Excel, Power Query, or designated data profiling tools",
+          "Regular access to NRF project team and IT support"
+        ],
+        "location": {
+          "workingtype": "remote",
+          "worklocation": null
+        },
+        "language": "en",
+        "type": "timebased",
+        "isFinalized": true,
+        "percentage": 100
+      }
+    }
+  },
+  {
+    "id": "a05b146f-7782-4b5f-90d3-ae782c00bcce",
+    "source_title": "Logistics Data Analysis",
+    "quality": "good",
+    "specialism": "Data Analysis",
+    "budget_band": 1,
+    "mode": "creator_v2",
+    "context_summary": "The purpose of this project is to engage a senior logistics and transport analytics specialist to perform targeted analyses on Johnson Controls’ logistics operations, in order to identify cost savings opportunities and model potential scenarios for improved efficiency across several focus areas.",
+    "response_json": {
+      "displayMessage": "Your draft SoW for **Logistics Data Analysis** is ready and fully filled in.",
+      "SoW": {
+        "title": "Logistics Data Analysis",
+        "purpose": "The purpose of this project is to engage a senior logistics and transport analytics specialist to perform targeted analyses on Johnson Controls’ logistics operations, in order to identify cost savings opportunities and model potential scenarios for improved efficiency across several focus areas.",
+        "definitionOfDone": "The project will be considered complete when a series of three to four detailed logistics analyses are delivered, each accompanied by clear scenario modeling and a set of recommendations quantifying potential cost savings for Johnson Controls’ transportation and SKU management processes.",
+        "boundaries": {
+          "includedActivities": [
+            "Analysis of logistics data provided by Johnson Controls",
+            "Scenario modeling for identified logistics improvements",
+            "Quantification of cost savings associated with recommended changes",
+            "Participation in data clarification sessions with internal stakeholders"
+          ],
+          "outOfScope": [
+            "Collection or cleansing of raw operational data",
+            "Implementation of proposed logistics changes",
+            "Long-term monitoring or ongoing analytics beyond the initial 2-month scope",
+            "Development of dashboards or reporting tools"
+          ]
+        },
+        "mustHaveRequirements": [
+          "Senior-level expertise in logistics and transport analytics",
+          "Demonstrated experience modeling savings scenarios in similar industrial settings",
+          "Ability to quickly interpret and analyze complex transportation and SKU data",
+          "Proficiency in communicating findings clearly to both technical and non-technical stakeholders"
+        ],
+        "niceToHaveRequirements": [
+          "Familiarity with Johnson Controls' operations or similar multinational industrial environments",
+          "Advanced knowledge of optimization modeling tools",
+          "Experience collaborating with cross-functional international teams"
+        ],
+        "timeline": "2025-12-152026-02-28",
+        "budget": {
+          "costestimate": 600000,
+          "hourlyrate": null,
+          "averageweeklyhours": null
+        },
+        "resources": [
+          "Access to relevant logistics and transport data sets from Johnson Controls",
+          "Availability of key staff for clarifications and short workshops",
+          "Workspace and IT access if required for on-site or hybrid work"
+        ],
+        "location": {
+          "workingtype": "remote",
+          "worklocation": null
+        },
+        "language": "en",
+        "type": "materialbased",
+        "isFinalized": true,
+        "percentage": 100
+      }
+    }
+  },
+  {
+    "id": "a0850eea-ac55-4ebb-b12c-3807db60ea04",
+    "source_title": "Cultuurverandering en Changemanagement",
+    "quality": "good",
+    "specialism": "Change Management",
+    "budget_band": 2,
+    "mode": "creator_v2",
+    "context_summary": "Het doel van dit traject is om VONK te begeleiden in de organisatie- en cultuurverandering die nodig is om de omslag te maken van een projectmatige organisatie naar een seriematige, procesgestuurde productiewijze. Central staat het meekrijgen van medewerkers en het borgen van deze nieuwe mindset en samenwerking binnen alle lagen van het bedrijf.",
+    "response_json": {
+      "displayMessage": "Ik heb een concept-SoW voorbereid voor **Cultuurverandering en Changemanagement**.",
+      "SoW": {
+        "title": "Cultuurverandering en Changemanagement",
+        "purpose": "Het doel van dit traject is om VONK te begeleiden in de organisatie- en cultuurverandering die nodig is om de omslag te maken van een projectmatige organisatie naar een seriematige, procesgestuurde productiewijze. Central staat het meekrijgen van medewerkers en het borgen van deze nieuwe mindset en samenwerking binnen alle lagen van het bedrijf.",
+        "definitionOfDone": "Het project is afgerond wanneer er een gedegen implementatieplan ligt dat is gebaseerd op een scherpe probleemdefinitie en grondige inventarisatie (inclusief rapportage). Dit plan bevat heldere veranderdoelstellingen per organisatieonderdeel, concrete interventies, en een tijdlijn voor realisatie. Tevens zijn workshops en presentaties verzorgd richting stakeholders en is het team voorbereid om het vervolg zelfstandig op te pakken.",
+        "boundaries": {
+          "includedActivities": [
+            "Uitvoeren van interviews met teamleiders, management en werkvloer om het huidige beeld en knelpunten boven tafel te krijgen.",
+            "Het organiseren van verdiepingsworkshops (maximaal 2) om samen met betrokkenen de drijfveren, blokkades en behoeften te benoemen.",
+            "Analyseren van processen, structuren, motivatie en weerstanden vanuit zowel sociale als functionele as.",
+            "Opstellen en presenteren van een rapportage inclusief factoren die een rol spelen in de gewenste cultuur- en organisatietransformatie.",
+            "Opstellen van gezamenlijke veranderdoelstellingen, prioritering hiervan, en vertaling naar concrete werkafspraken.",
+            "Ontwerp en uitwerking van een implementatieplan met voorgestelde interventiestructuur, actielijst, communicatie- en evaluatieafspraken.",
+            "Meedenken over randvoorwaarden voor succes en borging binnen de organisatie.",
+            "Opstellen van een tijdslijn en urenindicatie per fase."
+          ],
+          "outOfScope": [
+            "Uitvoering van het implementatieplan na oplevering (begeleiding bij implementatie is optioneel en apart overeen te komen).",
+            "Langdurige coachingstrajecten of individuele begeleiding van medewerkers buiten de workshops.",
+            "Technische procesoptimalisatie zonder een duidelijke link met organisatie- of gedragsverandering."
+          ]
+        },
+        "mustHaveRequirements": [
+          "Ervaren change management professional(s), aantoonbare ervaring met cultuurverandering in technische organisaties.",
+          "Bereidheid tot hybride werken, met fysieke aanwezigheid voor interviews, workshops en belangrijke sessies in Zwolle/Staphorst.",
+          "Heldere rapportages, concrete doelstellingen en een praktisch uitvoerbaar implementatieplan.",
+          "Goede communicatieve vaardigheden en het kunnen faciliteren van groepsprocessen met verschillende lagen van de organisatie.",
+          "Beschikbaarheid binnen de afgesproken projecttijdslijn."
+        ],
+        "niceToHaveRequirements": [
+          "Eerdere ervaring in (serie)productieomgevingen binnen de maakindustrie.",
+          "Mogelijkheid om na het project een rol te bieden in implementatiebegeleiding of training-on-the-job.",
+          "Affiniteit met technische innovatie en procesoptimalisatie."
+        ],
+        "timeline": "2026-01-022026-03-31",
+        "budget": {
+          "costestimate": null,
+          "hourlyrate": 12000,
+          "averageweeklyhours": 16
+        },
+        "resources": [
+          "Toegang tot interne beleids- en procesdocumentatie, stuklijsten en testprotocollen.",
+          "Beschikbaarheid van sleutelfunctionarissen voor interviews en workshops.",
+          "Vergaderruimtes op locatie in Zwolle en/of Staphorst.",
+          "Ondersteuning vanuit HR en management voor communicatie en planning."
+        ],
+        "location": {
+          "workingtype": "hybrid",
+          "worklocation": "Zwolle/Staphorst"
+        },
+        "language": "nl",
+        "type": "timebased",
+        "isFinalized": false,
+        "percentage": 30
+      }
+    }
+  },
+  {
+    "id": "a0b57cad-2b1f-479b-ba86-619ae925ee1d",
+    "source_title": "Data-invoer in SAP voor Sensoren-project (3)",
+    "quality": "good",
+    "specialism": "Software Implementation",
+    "budget_band": 1,
+    "mode": "creator_v2",
+    "context_summary": "Het doel van deze opdracht is het verwerken van circa 290 dossiers met betrekking tot nieuw geplaatste sensoren in het leidingnetwerk van Brabant Water in het SAP-systeem. Deze verwerking levert essentiële input voor toekomstig beheer, onderhoud en de verdere digitalisering van het netwerk.",
+    "response_json": {
+      "displayMessage": "Je concept-SoW voor **Data-invoer in SAP voor Sensoren-project (3)** staat klaar en is volledig ingevuld.",
+      "SoW": {
+        "title": "Data-invoer in SAP voor Sensoren-project (3)",
+        "purpose": "Het doel van deze opdracht is het verwerken van circa 290 dossiers met betrekking tot nieuw geplaatste sensoren in het leidingnetwerk van Brabant Water in het SAP-systeem. Deze verwerking levert essentiële input voor toekomstig beheer, onderhoud en de verdere digitalisering van het netwerk.",
+        "definitionOfDone": "De opdracht is voltooid wanneer alle 290 dossiers accuraat en volledig zijn ingevoerd in SAP volgens de aangeleverde instructies en formats, en wanneer de accuraatheid door een eindcontrole is bevestigd. Daarnaast moeten alignment-, concept- en eindoplever-meetings zijn gehouden om voortgang en kwaliteit te waarborgen.",
+        "boundaries": {
+          "includedActivities": [
+            "Voorbereiden en controleren van te verwerken dossiers en digitale bestanden voorafgaand aan de start",
+            "Dagelijks invoeren van dossiers in SAP volgens voorgeschreven workflow",
+            "Deelnemen aan onboarding en inwerktraject",
+            "Opstellen van vragen en bespreken van knelpunten tijdens alignment-meeting",
+            "Presenteren van aanpak en voortgang tijdens draft-meeting",
+            "Opleveren van volledige, gecontroleerde SAP-invoer tijdens final meeting"
+          ],
+          "outOfScope": [
+            "Technische configuratie, aanpassingen of ontwikkeling in SAP",
+            "Analyse van data of inhoudelijke interpretatie van sensorgegevens",
+            "Nazorg of langdurige ondersteuning na afronding van de opdracht",
+            "Werkzaamheden buiten het verwerken van de 290 aangewezen dossiers"
+          ]
+        },
+        "mustHaveRequirements": [
+          "Aantoonbare ervaring met data-entry in bedrijfsapplicaties, bij voorkeur SAP",
+          "Zorgvuldige en gestructureerde werkhouding, met nadruk op nauwkeurigheid",
+          "Beschikbaarheid gedurende de volledige duur van het project (minimaal twee weken aaneengesloten)",
+          "Bereidheid om op locatie te werken bij Brabant Water tijdens onboarding, meetings en zo nodig tijdens data-entry",
+          "In staat om 4 dossiers per uur te verwerken en de productiviteit binnen één week op te bouwen"
+        ],
+        "niceToHaveRequirements": [
+          "Ervaring met vergelijkbare projecten in de infrastructuur- of nutssector",
+          "Kennis van sensortechnieken of assetbeheerprocessen",
+          "Ervaring met procesoptimalisatie binnen data-entry werkzaamheden"
+        ],
+        "timeline": "2026-01-052026-04-20",
+        "budget": {
+          "costestimate": 850000,
+          "hourlyrate": null,
+          "averageweeklyhours": null
+        },
+        "resources": [
+          "Toegang tot SAP-systeem van Brabant Water",
+          "Volledige set dossierbestanden (digitaal of op papier)",
+          "Inwerkdocumentatie en workflowbeschrijvingen",
+          "Werkplek op locatie bij Brabant Water",
+          "Begeleiding van een contactpersoon binnen het projectteam"
+        ],
+        "location": {
+          "workingtype": "remote",
+          "worklocation": null
+        },
+        "language": "nl",
+        "type": "materialbased",
+        "isFinalized": true,
+        "percentage": 100
+      }
+    }
+  },
+  {
+    "id": "a0d263ca-c7d7-4d86-a7ec-b967f0905bf4",
+    "source_title": "Benchmarkonderzoek Arbobeleid en Managementsystemen",
+    "quality": "good",
+    "specialism": "Policy Development",
+    "budget_band": 1,
+    "mode": "creator_v2",
+    "context_summary": "Het doel van dit project is het uitvoeren van een benchmarkonderzoek naar bestaande arbobeleid en bijbehorende managementsystemen bij vergelijkbare bedrijven in de metaalbewerkingsindustrie, met productievestigingen in de Verenigde Staten, China, Nederland en Roemenië. Het onderzoek moet inzichten opleveren in globale standaarden en hoe deze worden",
+    "response_json": {
+      "displayMessage": "Je concept-SoW voor **Benchmarkonderzoek Arbobeleid en Managementsystemen** staat klaar en is volledig ingevuld.",
+      "SoW": {
+        "title": "Benchmarkonderzoek Arbobeleid en Managementsystemen",
+        "purpose": "Het doel van dit project is het uitvoeren van een benchmarkonderzoek naar bestaande arbobeleid en bijbehorende managementsystemen bij vergelijkbare bedrijven in de metaalbewerkingsindustrie, met productievestigingen in de Verenigde Staten, China, Nederland en Roemenië. Het onderzoek moet inzichten opleveren in globale standaarden en hoe deze worden afgestemd op lokale of regionale wet- en regelgeving, ter voorbereiding op het opzetten van een eigen, geïntegreerd managementsysteem voor AmbaFlex.",
+        "definitionOfDone": "Het project is afgerond wanneer er een helder, schriftelijk benchmarkrapport is opgeleverd met een overzicht van de onderzochte bedrijven, hun arbobeleid, relevante structuren, de wijze waarop zij voldoen aan globale versus lokale eisen, opgedane best practices, bijzonderheden per regio en suggesties of aanbevelingen richting de praktijk van AmbaFlex. Het rapport is besproken en geaccordeerd door de projectleider bij AmbaFlex. Specifiek moet er worden onderzocht hoe deze bedrijven omgaan met: ,Globale standaarden versus lokale/regionale wet- en regelgeving.,,Structuur en governance van het arbobeleid.,,Integratie van risicomanagement, compliance en certificering.,,Praktische instrumenten syste(e)m(en), checklists, audits, rapportages,,,trainingen)., Benchmarkrapport (max. 20 pagina’s) met: ,Overzicht van onderzochte bedrijven en hun aanpak.,,Vergelijkende analyse van overeenkomsten en verschillen.,,Best practices en lessons learned.,,Aanbevelingen voor AmbaFlex voor het opzetten van een wereldwijd,,arbobeleid en managementsysteem., Samenvatting (PowerPoint-ready) van de belangrijkste bevindingen en aanbevelingen voor interne bespreking met management.",
+        "boundaries": {
+          "includedActivities": [
+            "Selectie van vergelijkbare bedrijven op basis van criteria: actief in de metaalbewerkingsindustrie, met fabrieken in VS, China, Nederland en Roemenië",
+            "Uitvoeren van literatuur- en praktijkonderzoek naar arbobeleid en managementsystemen bij geselecteerde bedrijven",
+            "Analyse van hoe bedrijven omgaan met verschillen tussen globale standaarden en lokale wet- en regelgeving",
+            "Opstellen van een benchmarkrapport met aanbevelingen en indien mogelijk handvatten voor implementatie",
+            "Focus op bedrijven in de metaalbewerking/industrie met internationale aanwezigheid (VS, China, NL en optioneel Roemenië).",
+            "Specialist werkt in nauwe afstemming met AmbaFlex om relevantie en toepasbaarheid te waarborgen."
+          ],
+          "outOfScope": [
+            "Het maken van het nieuwe arbobeleid"
+          ]
+        },
+        "mustHaveRequirements": [
+          "Ervaring met internationale benchmarkonderzoeken in de industrie",
+          "Kennis van arbobeleid, veiligheidsmanagement en relevante regelgeving",
+          "Bekendheid met uitdagingen van organisatiebrede managementsystemen",
+          "Uitstekende schriftelijke Nederlandse communicatieve vaardigheden",
+          "Beschikbaarheid om binnen de vastgestelde termijn te leveren"
+        ],
+        "niceToHaveRequirements": [
+          "Praktijkervaring in/met de metaalbewerkingsindustrie",
+          "Ervaring met projecten bij organisaties met multiculturele en multi-regionale vestigingen",
+          "Kennis van internationaal verander- of implementatiemanagement",
+          "Goede beheersing van Engels (voor mogelijke interviews of bronnenstudies)"
+        ],
+        "timeline": "2026-01-192026-02-23",
+        "budget": {
+          "costestimate": 500000,
+          "hourlyrate": null,
+          "averageweeklyhours": null
+        },
+        "resources": [
+          "Toegang tot contactpersonen binnen geselecteerde bedrijven indien mogelijk",
+          "Ondersteuning van AmbaFlex bij het duiden van organisatie- en proceseisen",
+          "Eventuele reeds beschikbare interne documentatie en analyses",
+          "Toegang tot openbare rapportages en kennisbanken"
+        ],
+        "location": {
+          "workingtype": "remote",
+          "worklocation": null
+        },
+        "language": "nl",
+        "type": "materialbased",
+        "isFinalized": true,
+        "percentage": 100
+      }
+    }
+  },
+  {
+    "id": "a0d46618-bbf6-4211-ad0c-3c954dc8405f",
+    "source_title": "Global Market Assessment of PET Sheets and Films in Packaging Applications",
+    "quality": "good",
+    "specialism": "Project Management",
+    "budget_band": 1,
+    "mode": "creator_v2",
+    "context_summary": "The objective of this project is to provide Holland Colours with a comprehensive market assessment for recycled and virgin PET (Polyethylene terephthalate) sheets and films used in packaging applications. The findings will be used to inform strategic decisions concerning product development, geographic market prioritization, and the expansion of fu",
+    "response_json": {
+      "displayMessage": "Your draft SoW for **Global Market Assessment of PET Sheets and Films in Packaging Applications** is ready and fully filled in.",
+      "SoW": {
+        "title": "Global Market Assessment of PET Sheets and Films in Packaging Applications",
+        "purpose": "The objective of this project is to provide Holland Colours with a comprehensive market assessment for recycled and virgin PET (Polyethylene terephthalate) sheets and films used in packaging applications. The findings will be used to inform strategic decisions concerning product development, geographic market prioritization, and the expansion of functional additives for PET in packaging.",
+        "definitionOfDone": "The project will be considered complete when Holland Colours receives an English-language report containing: 1) market size estimates for PET sheets and films (both recycled and virgin) in packaging by region and major application sub-segments; 2) a detailed mapping and assessment of functional additives in use, market trends, growth rates, and unmet needs; 3) a competitive analysis of key players and their product offerings; 4) a value chain overview identifying key suppliers, converters, and decision-makers per region; 5) summary of insights derived via expert interviews; 6) strategic marketing frameworks (market map, value chain analysis, Porter's Five Forces, and PESTLE analysis); and 7) actionable recommendations for Holland Colours’ scope expansion.",
+        "boundaries": {
+          "includedActivities": [
+            "Collection and synthesis of published market data on PET sheets and films for packaging applications (both recycled and virgin)",
+            "Breakdown of global market size, volume, and estimated growth rates across major regions (Europe, North America, Central and South America, Asia-Pacific, and Africa)",
+            "Segmentation of the market into key packaging sub-segments and applications",
+            "Overview and assessment of currently used functional additives in PET sheets and films, including mapping of competing product portfolios",
+            "Interviewing 1-2 selected value chain experts or key players per region (anonymous, where required) to assess unmet needs and technological challenges",
+            "Development of marketing tools and strategic frameworks, including market mapping, value chain analysis, Porter's Five Forces, and PESTLE analysis (covering Political, Economic, Social, Technological, Legal, and Environmental drivers)",
+            "Delivery of a structured English-language report including data visualizations and written strategic recommendations"
+          ],
+          "outOfScope": [
+            "Primary purchase of large proprietary quantitative market datasets (client will supply these, if necessary)",
+            "Deep-dive research into non-PET packaging materials (such as PP, PLA, or other plastics)",
+            "Analysis of PET usage in non-packaging applications",
+            "Lab testing or technical validation of additive performance",
+            "Legal due diligence or intellectual property assessment"
+          ]
+        },
+        "mustHaveRequirements": [
+          "At least 3 years of proven consulting or market research experience",
+          "Demonstrable expertise in both secondary research (market intelligence/data synthesis) and primary research (expert interviews with value chain players)",
+          "Previous completion of international or global scope projects covering market assessment, segmentation, and value chain mapping",
+          "Professional fluency in English with proven capability to deliver written deliverables at a strategic decision-maker level"
+        ],
+        "niceToHaveRequirements": [
+          "Track record specifically in PET packaging materials or functional additive market analysis",
+          "Experience with market entry or expansion projects for specialty chemicals/ingredients",
+          "Existing network of industry contacts within PET packaging supply or value chains across Europe, Americas, and Asia-Pacific",
+          "Familiarity with consulting frameworks such as PESTLE, Porter's Five Forces, and value chain mapping"
+        ],
+        "timeline": "2026-01-192026-03-31",
+        "budget": {
+          "costestimate": 500000,
+          "hourlyrate": null,
+          "averageweeklyhours": null
+        },
+        "resources": [
+          "Access to Holland Colours’ previously purchased or proprietary market data sets, as required",
+          "List of recommended or pre-approved industry contacts for potential interviews in the value chain (where available)",
+          "Guidance from Holland Colours staff for prioritization of target geographies or application sub-segments",
+          "Sample list of competing products or known functional additives for preliminary mapping",
+          "Templates and structure guidance for reporting and data visualization (if preferred by Holland Colours)"
+        ],
+        "location": {
+          "workingtype": "remote",
+          "worklocation": null
+        },
+        "language": "en",
+        "type": "materialbased",
+        "isFinalized": true,
+        "percentage": 100
+      }
+    }
+  },
+  {
+    "id": "a0dfb827-c714-49e6-aeba-38e20d3476c9",
+    "source_title": "Interactieve Visualisatie Toekomstbehendig Behandelen voor Amstelring",
+    "quality": "good",
+    "specialism": "Reporting & Dashboards",
+    "budget_band": 1,
+    "mode": "creator_v2",
+    "context_summary": "Het doel van dit project is het ontwikkelen van een interactieve visualisatie (clickable PDF) die op heldere wijze inzicht biedt in de ontwikkelingen rondom Toekomstbehendig Behandelen, zodat belanghebbenden in één oogopslag de voortgang en gewenste stappen kunnen zien.",
+    "response_json": {
+      "displayMessage": "Je concept-SoW voor **Interactieve Visualisatie Toekomstbehendig Behandelen voor Amstelring** staat klaar en is volledig ingevuld.",
+      "SoW": {
+        "title": "Interactieve Visualisatie Toekomstbehendig Behandelen voor Amstelring",
+        "purpose": "Het doel van dit project is het ontwikkelen van een interactieve visualisatie (clickable PDF) die op heldere wijze inzicht biedt in de ontwikkelingen rondom Toekomstbehendig Behandelen, zodat belanghebbenden in één oogopslag de voortgang en gewenste stappen kunnen zien.",
+        "definitionOfDone": "Het project is voltooid wanneer er een volledig opgemaakte, interactieve PDF van 16 pagina’s is opgeleverd, bestaande uit een hoofdvisual met 15 afzonderlijke klikbare elementen die ieder doorverwijzen naar een subpagina met toelichtingen op verleden, heden en toekomst, en alle interactieve functies correct werken.",
+        "boundaries": {
+          "includedActivities": [
+            "Ontwikkeling van één overkoepelende hoofdvisual met duidelijke, klikbare elementen.",
+            "Visualisatie en grafische opmaak van alle onderdelen.",
+            "Ontwikkeling van subpagina’s per element met toelichting op verleden, nu, en toekomst.",
+            "Integratie van klikbare interactie in het PDF-bestand.",
+            "Aanleveren van een printklare én een digitale versie."
+          ],
+          "outOfScope": [
+            "Het schrijven of inhoudelijk redigeren van teksten.",
+            "Implementatie in andere formaten dan PDF.",
+            "Verdere opvolging na oplevering, zoals updates van de inhoud op een later moment."
+          ]
+        },
+        "mustHaveRequirements": [
+          "Ervaring met het ontwerpen en ontwikkelen van interactieve PDF-documenten met meerdere klikbare elementen.",
+          "De vaardigheid om een PDF te realiseren met één centrale hoofdvisual die minimaal 15 interactieve elementen bevat.",
+          "Ervaring met het opzetten van subpagina’s per interactief element, waarin duidelijk onderscheid wordt gemaakt tussen vertrekpunt, huidige situatie en toekomstvisie.",
+          "Technische kennis om te waarborgen dat alle interactieve elementen volledig functioneel zijn in Adobe Acrobat en gangbare PDF-viewers."
+        ],
+        "niceToHaveRequirements": [
+          "Ervaring met het toepassen van een bestaande huisstijl en visuele identiteit, bij voorkeur binnen de zorgsector (zoals Amstelring).",
+          "Kennis van optimalisatie van interactieve PDF’s voor zowel desktop als mobiel gebruik.",
+          "Sterke grafische vaardigheden en gevoel voor visuele accenten die bijdragen aan gebruiksgemak en esthetiek."
+        ],
+        "timeline": "2026-01-212026-01-31",
+        "budget": {
+          "costestimate": 300000,
+          "hourlyrate": null,
+          "averageweeklyhours": null
+        },
+        "resources": [
+          "Input van Amstelring omtrent inhoudelijke toelichtingen per element.",
+          "Toegang tot de Amstelring huisstijlrichtlijnen en logo’s.",
+          "Bestaande materialen zoals iconen, illustraties of wireframes (indien beschikbaar).",
+          "Conceptbriefing en feedbackmomenten met projectverantwoordelijke."
+        ],
+        "location": {
+          "workingtype": "remote",
+          "worklocation": null
+        },
+        "language": "nl",
+        "type": "materialbased",
+        "isFinalized": true,
+        "percentage": 100
+      }
+    }
+  }
+]
